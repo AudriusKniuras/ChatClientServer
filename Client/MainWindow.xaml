@@ -1,0 +1,24 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <GroupBox Header="Chat" Margin="10,10,10,78">
+            <Grid>
+                <TextBox x:Name="ChatTextBox" Margin="10" TextWrapping="Wrap" Text=""/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Message" Margin="10,0,10,10" Height="63" VerticalAlignment="Bottom">
+            <Grid>
+                <Button x:Name="SendButton" Content="Send" Margin="0,10,10,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75" Height="23" Click="SendButton_Click"/>
+                <TextBox x:Name="MessageTextBox" Height="23" Margin="10,10,90,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>
