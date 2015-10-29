@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 using System.Net.Sockets;
-using System.Text;
-using System.Threading.Tasks;
 using MutualStuff;
 
 namespace Client
@@ -15,7 +11,6 @@ namespace Client
         {
             if (endPoint == null)
                 throw new ArgumentNullException(nameof(endPoint));
-
             _username = username;
             _buffer = new Byte[1024];
             _endPoint = endPoint;
