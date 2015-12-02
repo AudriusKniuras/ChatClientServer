@@ -7,7 +7,9 @@
         List,           // user list sent to clients
         Message,        // simple message
         CryptoMessage,
-        ParameterList,  // parameters for encryption
+        ParameterN,
+        ParameterE,     // parameters for encryption
+        SymmetricKey,
         Null,           // unexpected message
     }
 }

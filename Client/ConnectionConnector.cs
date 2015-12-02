@@ -12,21 +12,19 @@ namespace Client
             if (endPoint == null)
                 throw new ArgumentNullException(nameof(endPoint));
             _username = username;
-            _buffer = new Byte[1024];
+            _buffer = new byte[1024];
             _endPoint = endPoint;
             _socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             _socket.Connect(endPoint);
 
             _logger.Debug("Successfully connected to the server.");
             _socket.BeginReceive(_buffer, 0, _buffer.Length, SocketFlags.None, OnReceive, null);
-
-
         }
 
         private readonly NLog.Logger _logger = NLog.LogManager.GetCurrentClassLogger();
         private readonly Socket _socket;
         private readonly EndPoint _endPoint;
-        private readonly Byte[] _buffer;
+        private readonly byte[] _buffer;
         private readonly string _username;
 
         internal delegate void MessageReceivedDelegate(MessageData messageData);
@@ -50,12 +48,29 @@ namespace Client
                 _socket.BeginReceive(_buffer, 0, _buffer.Length, SocketFlags.None, OnReceive, null);
             }
             catch (ObjectDisposedException) { }
-            catch (SocketException sex)
+            catch (SocketException)
             {
                 _socket?.Shutdown(SocketShutdown.Both);
                 _socket?.Close();
                 throw;
             }
+        }
+
+        public void Send(Byte[] buffer, MessageType messageType)
+        {
+            if (buffer == null)
+                throw new ArgumentNullException(nameof(buffer));
+
+            MessageData msgData = new MessageData
+            {
+                UserInfo =
+                {
+                    MessageType = messageType,
+                    Username = _username,
+                    Message = buffer.ToString()
+                }
+            };
+            _socket.Send(msgData.ToByte());
         }
 
         public void Send(Byte[] buffer)
@@ -66,15 +81,20 @@ namespace Client
             _socket.Send(buffer);
         }
 
-        public void Send(String text)
+        public void Send(String text, MessageType messageType)
         {
             if (String.IsNullOrEmpty(text))
                 throw new ArgumentNullException(nameof(text));
-          
-            MessageData msgData = new MessageData();
-            msgData.UserInfo.MessageType = MessageType.Message;
-            msgData.UserInfo.Username = _username;
-            msgData.UserInfo.Message = text;
+
+            MessageData msgData = new MessageData
+            {
+                UserInfo =
+                {
+                    MessageType = messageType,
+                    Username = _username,
+                    Message = text
+                }
+            };
             _socket.Send(msgData.ToByte());
         }
 

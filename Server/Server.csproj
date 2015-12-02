@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Encryption">
+      <HintPath>..\Encryption\bin\Debug\Encryption.dll</HintPath>
+    </Reference>
     <Reference Include="MutualStuff">
       <HintPath>..\MutualStuff\bin\Debug\MutualStuff.dll</HintPath>
     </Reference>
@@ -51,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConnectionInformation.cs" />
     <Compile Include="ConnectionListener.cs" />
     <Compile Include="ConnectionManager.cs" />
     <Compile Include="ConnectionModel.cs" />
@@ -60,7 +64,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram3.cd" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

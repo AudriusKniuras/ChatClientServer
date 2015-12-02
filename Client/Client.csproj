@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Encryption">
+      <HintPath>..\Encryption\bin\Debug\Encryption.dll</HintPath>
+    </Reference>
     <Reference Include="MutualStuff">
       <HintPath>..\MutualStuff\bin\Debug\MutualStuff.dll</HintPath>
     </Reference>
@@ -76,6 +79,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ConnectionConnector.cs" />
+    <Compile Include="Encryption.cs" />
     <Compile Include="Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>
     </Compile>

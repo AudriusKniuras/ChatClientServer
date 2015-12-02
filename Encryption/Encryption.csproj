@@ -40,7 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Encrypt.cs" />
+    <Compile Include="BigInteger.cs" />
+    <Compile Include="EncryptionAES.cs" />
+    <Compile Include="EncryptionRSA.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

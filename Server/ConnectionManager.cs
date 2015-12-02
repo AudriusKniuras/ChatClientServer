@@ -23,7 +23,8 @@ namespace Server
         private readonly IList<ConnectionModel> _connections;
         private readonly ConnectionListener _listener;
         private readonly MessageHandler _messageHandler;
-        public List<String> UserList = new List<string>();
+        public List<ConnectionInformation> UsersList = new List<ConnectionInformation>();
+        public List<byte[]> messageQueue = new List<byte[]>();
 
         private void OnConnectionReceivedEventHandler(System.Net.Sockets.Socket socket)
         {

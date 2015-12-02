@@ -1,6 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
 using System.Net.Sockets;
 using MutualStuff;
+using Encryption;
 
 namespace Server
 {
@@ -35,6 +38,8 @@ namespace Server
         /// </summary>
         public Guid Id { get; }
 
+        public ConnectionInformation ConnectionInformation;
+
 
         private void OnReceive(IAsyncResult ar)
         {
@@ -43,8 +48,32 @@ namespace Server
                 Int32 bytesRead = _socket.EndReceive(ar);
                 if (bytesRead == 0)
                     return;
+                //Program.ConnectionManager.messageQueue.Add(_buffer);
+                //while (Program.ConnectionManager.messageQueue.Count != 0)
+                //{
+                //_messageHandler.HandleMessage(this, new MessageData(Program.ConnectionManager.messageQueue[0]));
+                //}
 
+                /*using (var networkStream = new NetworkStream(_socket))
+                using (var bufferedStream = new BufferedStream(networkStream))
+                {
+                    while(true)
+                    {
+                        if (!TryReadExact(bufferedStream, _buffer, 0, 1))
+                        {
+                            break;
+                        }
+                        int msgLen = _buffer[0];
+                        if (!TryReadExact(bufferedStream, _buffer, 1, msgLen))
+                        {
+                            break;
+                        }
+                        _messageHandler.HandleMessage(this, new MessageData(_buffer));
+                    }
+                }*/
                 _messageHandler.HandleMessage(this, new MessageData(_buffer));
+
+                    
 
                 _socket.BeginReceive(_buffer, 0, _buffer.Length, SocketFlags.None, OnReceive, null);
             }
@@ -52,6 +81,17 @@ namespace Server
             {
                 _manager.RemoveConnection(this);
             }
+        }
+
+        private static bool TryReadExact(Stream stream, byte[] buffer, int offset, int count)
+        {
+            int bytesRead;
+            while (count > 0 && ((bytesRead = stream.Read(buffer, offset, count)) > 0))
+            {
+                offset += bytesRead;
+                count -= bytesRead;
+            }
+            return count == 0;
         }
 
         public void Send(Byte[] buffer)

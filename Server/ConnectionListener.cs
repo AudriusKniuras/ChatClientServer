@@ -25,7 +25,6 @@ namespace Server
         private readonly NLog.Logger _logger = NLog.LogManager.GetCurrentClassLogger();
         private readonly EndPoint _endPoint;
         private readonly Socket _listenerSocket;
-        private readonly IList<String> _usersList;
 
         internal delegate void ConnectionReceivedDelegate(Socket socket);
 
