@@ -1,0 +1,229 @@
+2015-12-02 16:43:37.0472|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 16:43:37.1267|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 16:43:37.1962|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-02 16:43:37.2318|DEBUG|Client.MainWindow|Received message: '270276185541954691787308921278248685223' from 'server' Message type: 'ParameterN'
+2015-12-02 16:44:12.4821|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 16:44:12.5111|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 16:44:12.5577|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-02 16:44:12.5677|DEBUG|Client.MainWindow|Received message: '234875486357263601459674674312732622711' from 'server' Message type: 'ParameterN'
+2015-12-02 16:44:24.6796|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 16:44:24.7077|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 16:44:42.7903|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 16:44:42.8243|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 16:44:42.8798|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-02 16:44:42.9048|DEBUG|Client.MainWindow|Received message: '193482084646871759666467852579219459943' from 'server' Message type: 'ParameterN'
+2015-12-02 16:44:52.8893|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 16:44:52.9254|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 16:44:52.9389|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-02 16:44:52.9669|DEBUG|Client.MainWindow|Received message: '193482084646871759666467852579219459943' from 'server' Message type: 'ParameterN'
+2015-12-02 16:44:52.9784|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 16:44:52.9809|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 16:45:07.2428|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-12-02 16:45:07.2428|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-12-02 16:45:38.1829|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 16:45:38.2119|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 16:45:38.3220|DEBUG|Client.MainWindow|Received message: '281815774651828841024275038670163057741' from 'server' Message type: 'ParameterN'
+2015-12-02 16:45:38.3420|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 16:45:45.4738|DEBUG|Client.MainWindow|Received message: ',User,EAAAAMpIwVQHS5q7dAXDz3lBvNvyeRsdZYUrMV61UMVPQSKT' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:54.8918|DEBUG|Client.MainWindow|Received message: ',User,EAAAADlKr2LVsHdPnkjZq/GhesMeL6OxEBMN0EgllsFNh7HS' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:55.0680|DEBUG|Client.MainWindow|Received message: ',User,EAAAAIJjwnl4xYUW0RTqLTU69k1ePX1MCqg4Hz9+3+qA+vvz' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:55.2562|DEBUG|Client.MainWindow|Received message: ',User,EAAAANqgzsWOknuPqBzq4CoRY3fJcFe5q0yxs8Ul3o+LgsHs' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:55.5104|DEBUG|Client.MainWindow|Received message: ',User,EAAAAMeFzby8r45EEQJdk4SL/t7OHbVZoNNLnPWYaFffIKjM' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:55.6855|DEBUG|Client.MainWindow|Received message: ',User,EAAAAIDtLtk2U4vdlrXsJ27yaLHNAVmBqtSZnm017ZZo24tS' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:55.8756|DEBUG|Client.MainWindow|Received message: ',User,EAAAAN7AiwxsJlc2nOkHJshVIW83o1wDSKzuD0W0DByh29vS' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:56.1542|DEBUG|Client.MainWindow|Received message: ',User,EAAAAH4ASPuEwIO+P3A8N8XTSEvx98NJ9nApMgXr0jS7iuEY' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:56.4847|DEBUG|Client.MainWindow|Received message: ',User,EAAAAGM1iW0uqjy9MjUfNIJMWAabU+30YwLnN19nLzyXudlN' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:56.7398|DEBUG|Client.MainWindow|Received message: ',User,EAAAAJm/vADHzcamklRN5W1oejD5OzAAFqzilYMYW5shyXAe' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:56.9840|DEBUG|Client.MainWindow|Received message: ',User,EAAAAOSoGAx/297+KUtTT+EiliFQuiGR/7Jj4mmAjpCdi1Eh' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:57.2202|DEBUG|Client.MainWindow|Received message: ',User,EAAAAHweF4e5yINDmMN5u+/9hHmbRrx1fGgzbfFLQhafYK93' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:57.4674|DEBUG|Client.MainWindow|Received message: ',User,EAAAADr5iSQ/siQHvjYyzeF2VhLfOPnz6rkxo7k5E/+TClIX' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:57.7808|DEBUG|Client.MainWindow|Received message: ',User,EAAAAL2f2UrSY6e+gVrIlLW33MZrj0Ut5Q8YeLoJRqInRKnL' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:58.1258|DEBUG|Client.MainWindow|Received message: ',User,EAAAACMErCVd80Sh7x728O8iLFqr3QzCALs1yh0RLEAoz1DN' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:58.3189|DEBUG|Client.MainWindow|Received message: ',User,EAAAAI+/fiUXJcKyBCDFK1Mr6u6oGP6XoTNX1pZvYMMhYn4t' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:58.5391|DEBUG|Client.MainWindow|Received message: ',User,EAAAAJSZI9eL6ugMrwZA3G6TYEuOIxk80bUXv3czPvWllfHi' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:58.8565|DEBUG|Client.MainWindow|Received message: ',User,EAAAAB5LEYK1QUK33HNGnOkq0R3DK4jyHiZq3rqL5q0gy55s' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:59.1929|DEBUG|Client.MainWindow|Received message: ',User,EAAAAF9fQwGLDZNVHBsoSWdUotAb8xHCrEJV6WQ9DbxgYMsh' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:59.4070|DEBUG|Client.MainWindow|Received message: ',User,EAAAALnnUaBWwhbZRsO6pPyKeZOo1WfAxzuAaP5127gOVNOf' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:59.6308|DEBUG|Client.MainWindow|Received message: ',User,EAAAAJtGwBNyuNySvI6bi62ByzPLVxtk/O3k4NeVI1y3JTNJ' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:45:59.9145|DEBUG|Client.MainWindow|Received message: ',User,EAAAACw7QjQRFgfT1gx1ABPjRkFJj7DYyBqY/QsTRc2sV9QW' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:00.1360|DEBUG|Client.MainWindow|Received message: ',User,EAAAAF/ygkFBvzOwStbOQ0aN//UljQn9IEsGarwTuAPt9HJD' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:00.3311|DEBUG|Client.MainWindow|Received message: ',User,EAAAAB1mSRFJEYt7UrI1KHRpd91/TWejljlvwui1x6zf/4aW' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:00.6183|DEBUG|Client.MainWindow|Received message: ',User,EAAAANJx6U3qoUzmHxYa3acKuPLu+TLEb9uDQUWy4pXx0jgh' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:00.8405|DEBUG|Client.MainWindow|Received message: ',User,EAAAANS+gcwNgnKjsV9zXJoqy00ZF4JKzPaqEXoMo/4OsPSw' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:01.0366|DEBUG|Client.MainWindow|Received message: ',User,EAAAAKxYe0YotEXfhTcAj9C+M8EqgSbWIE/DffpAH17Ksqi1' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:01.3415|DEBUG|Client.MainWindow|Received message: ',User,EAAAAJAK/9X/UMw6cnIaMcOb3loG3oYtesUfWhaLhBjw4sD/' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:01.5547|DEBUG|Client.MainWindow|Received message: ',User,EAAAAPXmkfuFFB8oCjxaSC/lPSDcZwKx/pZhHnYnDgxkuKTo' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:01.7298|DEBUG|Client.MainWindow|Received message: ',User,EAAAAC3r/dv7mFaiWA4wjSjKMp0Vi2ncmaxqeg6oTJtQZX3Y' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:01.9259|DEBUG|Client.MainWindow|Received message: ',User,EAAAAPAWwKGmsGH3ZLCigdNJr1mrpNHF3n5ez3QmZynhtBiN' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:02.1361|DEBUG|Client.MainWindow|Received message: ',User,EAAAALsYd5aeq+z8Wc1hJBLYLiHPlZNRiyIe0z3QpoK93Uxo' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:02.4451|DEBUG|Client.MainWindow|Received message: ',User,EAAAAK9EXlt47dtO820RTvtp5ueMPSusP9bQBGLhcSSneDC6' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:02.6482|DEBUG|Client.MainWindow|Received message: ',User,EAAAAHa0wWSYkURzT2BQZNZcd3URqPOv1VjuIgBf3S1JOGAK' from 'User' Message type: 'CryptoMessage'
+2015-12-02 16:46:02.8453|DEBUG|Client.MainWindow|Received message: ',User,EAAAAMMMT42Nv6XNCo1D7UHy6EWJP3DPBDdL+2lwhKD9/7BG' from 'User' Message type: 'CryptoMessage'
+2015-12-02 17:15:54.5648|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:15:54.5928|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:16:58.6786|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:16:58.7066|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:16:58.8037|DEBUG|Client.MainWindow|Received message: '    >>>      conne' from '   ' Message type: 'Connect'
+2015-12-02 17:17:45.3940|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:17:45.4245|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:19:41.9800|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:19:42.0090|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:19:46.5568|DEBUG|Client.MainWindow|Received message: '215726369774172664395402288782329836409' from 'server' Message type: 'ParameterN'
+2015-12-02 17:19:54.3645|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:55.0091|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:55.1310|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:55.3331|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:55.4440|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:55.6473|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:55.7685|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:55.9802|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:56.1037|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:56.3038|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:56.4359|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:19:56.6279|DEBUG|Client.MainWindow|Received message: 'j' from 'User' Message type: 'Null'
+2015-12-02 17:30:03.6404|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:30:03.6794|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:31:30.2178|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:31:30.2539|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:31:39.9330|DEBUG|Client.MainWindow|Received message: 'h' from 'User' Message type: 'Null'
+2015-12-02 17:31:39.9430|DEBUG|Client.MainWindow|Received message: 'h' from 'User' Message type: 'Null'
+2015-12-02 17:31:39.9430|DEBUG|Client.MainWindow|Received message: 'h' from 'User' Message type: 'Null'
+2015-12-02 17:31:39.9591|DEBUG|Client.MainWindow|Received message: 'h' from 'User' Message type: 'Null'
+2015-12-02 17:31:39.9591|DEBUG|Client.MainWindow|Received message: '<<< User disconnected' from '' Message type: 'Disconnect'
+2015-12-02 17:31:39.9591|DEBUG|Client.MainWindow|Received message: '<<< User disconnected' from '' Message type: 'Disconnect'
+2015-12-02 17:31:39.9741|DEBUG|Client.MainWindow|Received message: '<<< User disconnected' from '' Message type: 'Disconnect'
+2015-12-02 17:31:39.9741|DEBUG|Client.MainWindow|Received message: '<<< User disconnected' from '' Message type: 'Disconnect'
+2015-12-02 17:33:43.1973|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:33:43.2273|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:36:35.7846|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:36:35.8176|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:38:03.2948|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:38:03.3339|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:38:03.3785|DEBUG|Client.MainWindow|Received message: '240478577986062428037425890884832589551' from 'server' Message type: 'ParameterN'
+2015-12-02 17:38:03.3785|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:38:14.3660|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:38:14.3950|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:38:14.4140|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-02 17:38:14.4741|DEBUG|Client.MainWindow|Received message: '240478577986062428037425890884832589551' from 'server' Message type: 'ParameterN'
+2015-12-02 17:38:14.4741|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:38:14.4851|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:38:24.5193|DEBUG|Client.MainWindow|Received message: 'x' from 'User2' Message type: 'Null'
+2015-12-02 17:38:24.5193|DEBUG|Client.MainWindow|Received message: 'x' from 'User2' Message type: 'Null'
+2015-12-02 17:39:46.6584|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:39:46.6844|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:39:46.7473|DEBUG|Client.MainWindow|Received message: '199823568011893783258899162876133810189' from 'server' Message type: 'ParameterN'
+2015-12-02 17:39:46.7588|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-02 17:39:56.2203|DEBUG|Client.MainWindow|Received message: ',User,EAAAAJZe0zsQcKpSi0N3OXM3eRmfx7w27b+MBUFx9JYa+LxO' from 'User' Message type: 'CryptoMessage'
+2015-12-02 17:40:05.4542|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:40:05.4952|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:40:05.5102|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-02 17:40:05.5512|DEBUG|Client.MainWindow|Received message: '199823568011893783258899162876133810189' from 'server' Message type: 'ParameterN'
+2015-12-02 17:40:05.5512|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-02 17:40:05.5568|DEBUG|Client.MainWindow|Received message: '199823568011893783258899162876133810189' from 'server' Message type: 'ParameterN'
+2015-12-02 17:40:05.5808|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-02 17:40:20.1020|DEBUG|Client.MainWindow|Received message: ',User,EAAAAMRGNlYaH6uDA3CeFXuaOVjHPKEGAOFEIiIjYDbDA39O' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:20.1030|DEBUG|Client.MainWindow|Received message: ',User,EAAAAMRGNlYaH6uDA3CeFXuaOVjHPKEGAOFEIiIjYDbDA39O' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:21.8406|DEBUG|Client.MainWindow|Received message: ',User,EAAAAPIkLxg+OqvlLaM2t/c2x646PjhgiIawJ9aWgsYSfy8W' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:21.8406|DEBUG|Client.MainWindow|Received message: ',User,EAAAAPIkLxg+OqvlLaM2t/c2x646PjhgiIawJ9aWgsYSfy8W' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:22.4686|DEBUG|Client.MainWindow|Received message: ',User,EAAAAP0WzSvMow5E+IMs212kHmeIrZ+E4yq3ioyMO9cuiMDG' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:22.4686|DEBUG|Client.MainWindow|Received message: ',User,EAAAAP0WzSvMow5E+IMs212kHmeIrZ+E4yq3ioyMO9cuiMDG' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:22.8281|DEBUG|Client.MainWindow|Received message: ',User,EAAAAD6AvtG1Kr/EL1e0LFUneVupm+OnXpygs4sNufy8OMY3' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:22.8281|DEBUG|Client.MainWindow|Received message: ',User,EAAAAD6AvtG1Kr/EL1e0LFUneVupm+OnXpygs4sNufy8OMY3' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:23.0746|DEBUG|Client.MainWindow|Received message: ',User,EAAAAPud6HVNAeOtguvXBVy05+h/BL7lKADk+WcFKmuVNU30' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:23.0746|DEBUG|Client.MainWindow|Received message: ',User,EAAAAPud6HVNAeOtguvXBVy05+h/BL7lKADk+WcFKmuVNU30' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:23.2007|DEBUG|Client.MainWindow|Received message: ',User,EAAAAMjvk/fqpS6kSecrbnnwJW6Ew+JMGMO/8Qa26weJ5+08' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:23.2007|DEBUG|Client.MainWindow|Received message: ',User,EAAAAMjvk/fqpS6kSecrbnnwJW6Ew+JMGMO/8Qa26weJ5+08' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:23.3768|DEBUG|Client.MainWindow|Received message: ',User,EAAAAOKpusA4rTa0Ux08FjV9z2/q3S1SfoTqW1qaWW3mkH8q' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:23.3819|DEBUG|Client.MainWindow|Received message: ',User,EAAAAOKpusA4rTa0Ux08FjV9z2/q3S1SfoTqW1qaWW3mkH8q' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:23.6711|DEBUG|Client.MainWindow|Received message: ',User,EAAAAMBb4NJ8k/td887G1wml883B+t2TAAryaYtpau/Bjuav' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:40:23.6711|DEBUG|Client.MainWindow|Received message: ',User,EAAAAMBb4NJ8k/td887G1wml883B+t2TAAryaYtpau/Bjuav' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:44:48.7193|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:44:48.7553|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:44:48.8153|DEBUG|Client.MainWindow|Received message: '287813540732140637065356447295130249753' from 'server' Message type: 'ParameterN'
+2015-12-02 17:44:48.8153|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:45:03.9434|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:45:03.9754|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:45:04.0014|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-02 17:45:04.0214|DEBUG|Client.MainWindow|Received message: '287813540732140637065356447295130249753' from 'server' Message type: 'ParameterN'
+2015-12-02 17:45:04.0273|DEBUG|Client.MainWindow|Received message: '287813540732140637065356447295130249753' from 'server' Message type: 'ParameterN'
+2015-12-02 17:45:04.0388|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:45:04.0428|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:45:12.4064|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-12-02 17:45:12.4064|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-12-02 17:45:21.8762|DEBUG|Client.MainWindow|Received message: ',User,EAAAAKppNXj13Z36sQF/OnFUdXri9fV1a6b/n3GlMhPD9XRi' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:45:21.8762|DEBUG|Client.MainWindow|Received message: ',User,EAAAAKppNXj13Z36sQF/OnFUdXri9fV1a6b/n3GlMhPD9XRi' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:45:30.8360|DEBUG|Client.MainWindow|Received message: ',User,EAAAAOhIld/XNUFKUNRfdRujftd2t+OdfoOxEFwpLuW0D9ZB' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:45:30.8370|DEBUG|Client.MainWindow|Received message: ',User,EAAAAOhIld/XNUFKUNRfdRujftd2t+OdfoOxEFwpLuW0D9ZB' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:45:31.5365|DEBUG|Client.MainWindow|Received message: ',User,EAAAAKtiW/L6lMtE/+/9K9HjxU9AIdQTg+60eunRnoqgj0kj' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:45:31.5365|DEBUG|Client.MainWindow|Received message: ',User,EAAAAKtiW/L6lMtE/+/9K9HjxU9AIdQTg+60eunRnoqgj0kj' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:45:31.7480|DEBUG|Client.MainWindow|Received message: ',User,EAAAABFM/elfg31XgXBvU8BHCkEtd6E9S3euQ1cC3QGD707u' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:45:31.7480|DEBUG|Client.MainWindow|Received message: ',User,EAAAABFM/elfg31XgXBvU8BHCkEtd6E9S3euQ1cC3QGD707u' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 17:49:47.7496|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:49:47.7846|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:49:47.8576|DEBUG|Client.MainWindow|Received message: '237975134561589744334776121576735271347' from 'server' Message type: 'ParameterN'
+2015-12-02 17:49:47.8897|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:49:59.0252|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:49:59.0607|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:49:59.0907|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-02 17:49:59.1288|DEBUG|Client.MainWindow|Received message: '237975134561589744334776121576735271347' from 'server' Message type: 'ParameterN'
+2015-12-02 17:49:59.1478|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:49:59.1568|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:50:09.9949|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-12-02 17:50:09.9949|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-12-02 17:51:22.1690|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:51:22.1990|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:51:22.2891|DEBUG|Client.MainWindow|Received message: '195163633463995088784435555657557274173' from 'server' Message type: 'ParameterN'
+2015-12-02 17:53:08.4566|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:53:08.4991|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:53:08.5551|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-02 17:53:08.5687|DEBUG|Client.MainWindow|Received message: '181821747362525024483670081968510863163' from 'server' Message type: 'ParameterN'
+2015-12-02 17:55:57.5066|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:55:57.5377|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:55:57.6047|DEBUG|Client.MainWindow|Received message: '174640553704661961400922685686363588549' from 'server' Message type: 'ParameterN'
+2015-12-02 17:55:57.6177|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:56:05.4741|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:56:05.5201|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:56:05.5512|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-02 17:56:05.5902|DEBUG|Client.MainWindow|Received message: '174640553704661961400922685686363588549' from 'server' Message type: 'ParameterN'
+2015-12-02 17:56:05.5992|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:56:05.6042|DEBUG|Client.MainWindow|Received message: '174640553704661961400922685686363588549' from 'server' Message type: 'ParameterN'
+2015-12-02 17:56:05.6172|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 17:56:31.7492|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-12-02 17:56:31.7492|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-12-02 17:57:45.5256|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:57:45.5546|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:57:45.6307|DEBUG|Client.MainWindow|Received message: '197102752689182283322774172338342654357' from 'server' Message type: 'ParameterN'
+2015-12-02 17:57:45.6447|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-02 17:57:52.3865|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 17:57:52.4411|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 17:57:52.4691|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-02 17:57:52.5046|DEBUG|Client.MainWindow|Received message: '197102752689182283322774172338342654357' from 'server' Message type: 'ParameterN'
+2015-12-02 17:57:52.5096|DEBUG|Client.MainWindow|Received message: '197102752689182283322774172338342654357' from 'server' Message type: 'ParameterN'
+2015-12-02 17:57:52.5312|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-02 17:57:52.5226|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-02 18:02:53.6455|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 18:02:53.6765|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 18:02:53.7335|DEBUG|Client.MainWindow|Received message: '291649282904427338434407909788698169693' from 'server' Message type: 'ParameterN'
+2015-12-02 18:02:53.7411|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 18:03:00.9711|DEBUG|Client.MainWindow|Received message: ',User,EAAAAKR2BXpN3kWCvyqRFXTY7iRvzHGR4XgMP1jYsEQUjZvZ' from 'User' Message type: 'CryptoMessage'
+2015-12-02 18:03:02.1846|DEBUG|Client.MainWindow|Received message: ',User,EAAAAIOEWyRgau+Rs3Ae5JfzUZbFvYRbX9TIb0vQ6EGpwA9e' from 'User' Message type: 'CryptoMessage'
+2015-12-02 18:03:02.9484|DEBUG|Client.MainWindow|Received message: ',User,EAAAAE2fTpukz5J/qmVQJuCFA4i5XUjK46r8VJGlrTqKIzlU' from 'User' Message type: 'CryptoMessage'
+2015-12-02 18:03:03.1376|DEBUG|Client.MainWindow|Received message: ',User,EAAAACqr5CfFABhm3a95+MsR3e8Sv4hIxQJnL9R7JEAgE8E1' from 'User' Message type: 'CryptoMessage'
+2015-12-02 18:03:03.3137|DEBUG|Client.MainWindow|Received message: ',User,EAAAAE3USRuP0y4ThASNYZIdI505kYicCI441ZuwpSxa6AgD' from 'User' Message type: 'CryptoMessage'
+2015-12-02 18:03:12.5727|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-02 18:03:12.6038|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-02 18:03:12.6168|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-02 18:03:12.6438|DEBUG|Client.MainWindow|Received message: '291649282904427338434407909788698169693' from 'server' Message type: 'ParameterN'
+2015-12-02 18:03:12.6508|DEBUG|Client.MainWindow|Received message: '291649282904427338434407909788698169693' from 'server' Message type: 'ParameterN'
+2015-12-02 18:03:12.6438|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 18:03:12.6648|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-02 18:03:21.1177|DEBUG|Client.MainWindow|Received message: ',User,EAAAAOfqQYL5FGDz9ZAsViSmusEdeQsaW5h0x0gNVxXxsLcK' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 18:03:21.1177|DEBUG|Client.MainWindow|Received message: ',User,EAAAAOfqQYL5FGDz9ZAsViSmusEdeQsaW5h0x0gNVxXxsLcK' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 18:03:22.2076|DEBUG|Client.MainWindow|Received message: ',User,EAAAACNX8hVRvvs/2ND8CqDFw/G8oLWYj6MW08ukdC8+V1Ir' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 18:03:22.2076|DEBUG|Client.MainWindow|Received message: ',User,EAAAACNX8hVRvvs/2ND8CqDFw/G8oLWYj6MW08ukdC8+V1Ir' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 18:03:22.6278|DEBUG|Client.MainWindow|Received message: ',User,EAAAALP7Or9SEecxkZDrEFAQ4TO4tgnwOZOV8lDqat9XxFOT' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 18:03:22.6278|DEBUG|Client.MainWindow|Received message: ',User,EAAAALP7Or9SEecxkZDrEFAQ4TO4tgnwOZOV8lDqat9XxFOT' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 18:03:22.8409|DEBUG|Client.MainWindow|Received message: ',User,EAAAAPRStxIyf4QPTCyMJOOoZGIy3Wi24mmZm0+m7cChy1O3' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 18:03:22.8409|DEBUG|Client.MainWindow|Received message: ',User,EAAAAPRStxIyf4QPTCyMJOOoZGIy3Wi24mmZm0+m7cChy1O3' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 18:03:23.2057|DEBUG|Client.MainWindow|Received message: ',User,EAAAAA+BalRVy9ucleeKBflai1DcP1pROQlzRgPY0wkglndx' from 'User2' Message type: 'CryptoMessage'
+2015-12-02 18:03:23.2057|DEBUG|Client.MainWindow|Received message: ',User,EAAAAA+BalRVy9ucleeKBflai1DcP1pROQlzRgPY0wkglndx' from 'User2' Message type: 'CryptoMessage'

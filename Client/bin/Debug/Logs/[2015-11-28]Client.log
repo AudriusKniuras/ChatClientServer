@@ -1,0 +1,292 @@
+2015-11-28 21:49:09.2772|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 21:49:09.3623|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 21:49:09.4993|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 21:49:12.1769|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 21:49:12.2034|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 21:49:12.2179|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 21:52:24.1295|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 21:52:24.1605|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 21:53:35.6569|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 21:53:35.6949|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 21:55:54.4350|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 21:55:54.4680|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 21:55:56.7835|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 21:55:56.8076|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 21:55:56.8356|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 21:56:00.4113|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 21:56:00.4133|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 21:56:28.7187|DEBUG|Client.MainWindow|Received message: '???y2?#??J?]?*\' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 21:56:28.7187|DEBUG|Client.MainWindow|Received message: '???y2?#??J?]?*\' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 21:56:40.5659|DEBUG|Client.MainWindow|Received message: 'User,EAAAAMtCG8vA2qpWAXZiqub6gFpqta4br6doy4jm64DIxLXg' from 'User' Message type: 'CryptoMessage'
+2015-11-28 21:56:40.5659|DEBUG|Client.MainWindow|Received message: 'User,EAAAAMtCG8vA2qpWAXZiqub6gFpqta4br6doy4jm64DIxLXg' from 'User' Message type: 'CryptoMessage'
+2015-11-28 21:56:55.8287|DEBUG|Client.MainWindow|Received message: 'h' from 'User2' Message type: 'Null'
+2015-11-28 21:56:55.8277|DEBUG|Client.MainWindow|Received message: 'h' from 'User2' Message type: 'Null'
+2015-11-28 21:57:16.8489|DEBUG|Client.MainWindow|Received message: 'z?cx????b?M??&\I' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 21:57:16.8489|DEBUG|Client.MainWindow|Received message: 'z?cx????b?M??&\I' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 21:57:19.0389|DEBUG|Client.MainWindow|Received message: 'User,EAAAACIfUQO7ZFMHzZXiB3XKwnGi99IiDRH05AOuSVkCYGpt' from 'User' Message type: 'CryptoMessage'
+2015-11-28 21:57:19.0394|DEBUG|Client.MainWindow|Received message: 'User,EAAAACIfUQO7ZFMHzZXiB3XKwnGi99IiDRH05AOuSVkCYGpt' from 'User' Message type: 'CryptoMessage'
+2015-11-28 21:58:22.4487|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 21:58:22.4777|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 21:58:26.1953|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 21:58:26.2213|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 21:58:26.2413|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 21:58:29.4275|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 21:58:29.4305|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 21:58:40.8536|DEBUG|Client.MainWindow|Received message: ' ??O?`>Q??D???' from 'User' Message type: 'SymmetricKey'
+2015-11-28 21:58:40.8536|DEBUG|Client.MainWindow|Received message: ' ??O?`>Q??D???' from 'User' Message type: 'SymmetricKey'
+2015-11-28 21:58:43.6022|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAHT9CxkmAHPgBKXKq5kKpKQiWytzJhgmOaP2/Z3LLYWv' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 21:58:43.6037|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAHT9CxkmAHPgBKXKq5kKpKQiWytzJhgmOaP2/Z3LLYWv' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 21:59:50.4847|DEBUG|Client.MainWindow|Received message: 'j??N??U	iW2?}(3' from 'User' Message type: 'SymmetricKey'
+2015-11-28 21:59:51.0196|DEBUG|Client.MainWindow|Received message: 'j??N??U	iW2?}(3' from 'User' Message type: 'SymmetricKey'
+2015-11-28 21:59:52.3951|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAP689dXcUAzrnlOt8ctfvttZPVd7mmjLg2K+jA0F69Aa' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 21:59:52.3966|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAP689dXcUAzrnlOt8ctfvttZPVd7mmjLg2K+jA0F69Aa' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:00:00.2904|DEBUG|Client.MainWindow|Received message: ',]?a??C}??I7???' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:00:00.2904|DEBUG|Client.MainWindow|Received message: ',]?a??C}??I7???' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:00:01.4643|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAGOZ5Y991Afzvc33fts+mQaLW7y1fCHX6BwmIeAPfQdO' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:00:01.4673|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAGOZ5Y991Afzvc33fts+mQaLW7y1fCHX6BwmIeAPfQdO' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:00:06.6268|DEBUG|Client.MainWindow|Received message: '6??-??Ad`??????@' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:00:06.6268|DEBUG|Client.MainWindow|Received message: '6??-??Ad`??????@' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:00:07.7751|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAK14kICxvMfhBUrAlX0XSrdRWbLcBhANr7/7A27RIXpv' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:00:07.7751|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAK14kICxvMfhBUrAlX0XSrdRWbLcBhANr7/7A27RIXpv' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:00:13.8260|DEBUG|Client.MainWindow|Received message: '1@?p??l>_m??WF' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:00:13.8260|DEBUG|Client.MainWindow|Received message: '1@?p??l>_m??WF' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:00:14.9443|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAGnlxZ64QsHnGyK3XEpsczlYIfT4p1iRU011aVBIrHe1' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:00:14.9453|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAGnlxZ64QsHnGyK3XEpsczlYIfT4p1iRU011aVBIrHe1' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:00:19.3618|DEBUG|Client.MainWindow|Received message: '??`)G?????z' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:00:19.3618|DEBUG|Client.MainWindow|Received message: '??`)G?????z' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:00:20.2680|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAJrPZw+gtkJcwBfiDDHLbZOChlUsyTvImFKGHmv+BVNO' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:00:20.2740|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAJrPZw+gtkJcwBfiDDHLbZOChlUsyTvImFKGHmv+BVNO' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:00:35.9214|DEBUG|Client.MainWindow|Received message: 'A?y?Li?V?U?
+?' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:00:35.9224|DEBUG|Client.MainWindow|Received message: 'A?y?Li?V?U?
+?' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:00:36.4574|DEBUG|Client.MainWindow|Received message: 'User,EAAAADTNIZ+q620NkXapJwaqiVauM34Cr24AANzTNqSHGUBf' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:00:36.4604|DEBUG|Client.MainWindow|Received message: 'User,EAAAADTNIZ+q620NkXapJwaqiVauM34Cr24AANzTNqSHGUBf' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:16:21.1919|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:16:21.2360|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:16:21.3218|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 22:16:46.4408|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:16:46.4709|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:16:46.5382|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 22:17:16.0728|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:17:16.0988|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:17:27.9174|DEBUG|Client.MainWindow|Received message: '(?(K?????]^???' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:17:27.9174|DEBUG|Client.MainWindow|Received message: 'User,EAAAAD1/blzu+Nms4oJPY1PwZiL/Kbbt+XmS1w4EK6Vb4fLT' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:17:55.6947|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:17:55.7167|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:17:55.8231|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 22:17:58.4631|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:17:58.4891|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:17:58.5032|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 22:18:00.9369|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:18:00.9399|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:19:48.1979|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:19:48.2299|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:19:52.1295|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:19:52.1555|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:19:52.1725|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 22:19:53.1831|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:19:53.1861|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:20:08.1695|DEBUG|Client.MainWindow|Received message: '(?Q???.??<:#?u' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:20:08.1695|DEBUG|Client.MainWindow|Received message: '(?Q???.??<:#?u' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:20:08.1825|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAMkeHK+qmjJfPsJbiQ0XeTIshpH+QshCrLn6vu2PwQMF' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:20:08.1855|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAMkeHK+qmjJfPsJbiQ0XeTIshpH+QshCrLn6vu2PwQMF' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:21:11.6043|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 22:21:11.6053|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 22:21:21.6444|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 22:21:21.6464|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 22:21:36.7818|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 22:21:36.7818|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 22:24:01.5211|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:24:01.5496|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:25:14.3821|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:25:14.4101|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:25:21.0371|DEBUG|Client.MainWindow|Received message: 'h????vx{Hq??2?' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:25:43.0058|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPfAPR8kuSf+O2leYdD68Or958ORVkMP/YfBzGyADLKU' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:26:27.6110|DEBUG|Client.MainWindow|Received message: 'j??8????????' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:26:33.7679|DEBUG|Client.MainWindow|Received message: 'User,EAAAAHwDXi+GHVAEEY+9kAdF1xEvA5YrTbu7vXXktQN0bPBw' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:26:45.1722|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:26:45.2223|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:26:45.2487|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 22:26:47.8812|DEBUG|Client.MainWindow|Received message: '0B???p?`"?a?c' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:26:47.8842|DEBUG|Client.MainWindow|Received message: '0B???p?`"?a?c' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:26:50.7679|DEBUG|Client.MainWindow|Received message: 'User,EAAAABRU21htRM66NlG1R2WJqcmpKv+Nmnn0Z39Zo9pdbVrS' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:26:52.8224|DEBUG|Client.MainWindow|Received message: 'User,EAAAABRU21htRM66NlG1R2WJqcmpKv+Nmnn0Z39Zo9pdbVrS' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:27:04.4445|DEBUG|Client.MainWindow|Received message: '	?z^?0???]"????q' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:27:04.4455|DEBUG|Client.MainWindow|Received message: '	?z^?0???]"????q' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:27:09.7607|DEBUG|Client.MainWindow|Received message: 'User,EAAAAOG5N7MfB3RPPK0h8Vq1+ODsEUpU6LGnfoVRwN0yqUwt' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:27:12.2076|DEBUG|Client.MainWindow|Received message: 'User,EAAAAOG5N7MfB3RPPK0h8Vq1+ODsEUpU6LGnfoVRwN0yqUwt' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:34:06.0785|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:34:06.1035|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:34:09.0774|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:34:09.1056|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:34:09.1196|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 22:34:13.1959|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:34:13.1979|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:34:24.3800|DEBUG|Client.MainWindow|Received message: 'User,g??%?%?~????.' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:34:24.3800|DEBUG|Client.MainWindow|Received message: 'User,g??%?%?~????.' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:34:24.3800|DEBUG|Client.MainWindow|Received message: 'User2,EAAAADhvEFny+6PSuLegSFM8l327Coe6xpUC455dALxnSjIq' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:34:24.3960|DEBUG|Client.MainWindow|Received message: 'User2,EAAAADhvEFny+6PSuLegSFM8l327Coe6xpUC455dALxnSjIq' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:35:24.9989|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:35:25.0269|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:35:28.7003|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:35:28.7294|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:35:28.7484|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 22:35:30.0379|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:35:30.0449|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:35:36.8646|DEBUG|Client.MainWindow|Received message: 'User,pQ?4??Llq?Win?' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:35:36.8646|DEBUG|Client.MainWindow|Received message: 'User,EAAAANblJJCVQP7fhBt6Uf8JIGwaC3ZunbQcr4zD8BkdTaWd' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:35:36.8656|DEBUG|Client.MainWindow|Received message: 'User,pQ?4??Llq?Win?' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:35:36.8806|DEBUG|Client.MainWindow|Received message: 'User,EAAAANblJJCVQP7fhBt6Uf8JIGwaC3ZunbQcr4zD8BkdTaWd' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:37:56.4223|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:37:56.4518|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:39:50.0894|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:39:50.1204|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:39:50.1965|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 22:40:18.4289|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:40:18.4649|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:42:41.8564|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:42:41.8844|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:43:10.3882|DEBUG|Client.MainWindow|Received message: 'User,P???????,?:?' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:43:10.3952|DEBUG|Client.MainWindow|Received message: 'User,EAAAAE61DcAfL4VQ6X+FErKgFTsyMKQHeQ5HDYqHlcXbW3Gw' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:44:50.9408|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:44:50.9668|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:45:20.7086|DEBUG|Client.MainWindow|Received message: 'User,CH8??Je1?{e?[Z?i' from 'User' Message type: 'SymmetricKey'
+2015-11-28 22:45:20.7086|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPlKpt9cRC667cmi9nK2iyTcvfu78fapsMMQ8KlJeZ4K' from 'User' Message type: 'CryptoMessage'
+2015-11-28 22:48:14.1762|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:48:14.2022|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:48:19.0768|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:48:19.1079|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:48:19.1389|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 22:48:21.0533|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:48:21.0563|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:48:27.9594|DEBUG|Client.MainWindow|Received message: 'User,E???|L??cc?????' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:48:27.9594|DEBUG|Client.MainWindow|Received message: 'User,EAAAAG3067yFM99twXZ/sFJNiMrmjlyuYBBDhrPFkZGS7Uic' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:48:27.9594|DEBUG|Client.MainWindow|Received message: 'User,E???|L??cc?????' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:48:27.9844|DEBUG|Client.MainWindow|Received message: 'User,EAAAAG3067yFM99twXZ/sFJNiMrmjlyuYBBDhrPFkZGS7Uic' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:48:47.3582|DEBUG|Client.MainWindow|Received message: 'User,EAAAAG3067yFM99twXZ/sFJNiMrmjlyuYBBDhrPFkZGS7Uic' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:49:09.3366|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:49:09.3706|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:49:13.1083|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:49:13.1363|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:49:13.1523|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 22:49:15.3489|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:49:15.3509|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:50:02.3595|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:50:02.3885|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:50:04.5877|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:50:04.6177|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:50:04.6357|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 22:50:07.9134|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:50:07.9174|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:50:14.8733|DEBUG|Client.MainWindow|Received message: 'User,"Nhws?????i??0' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:50:14.8783|DEBUG|Client.MainWindow|Received message: 'User,EAAAACvjNbaqqvSZEgQIy52N0tesXOb5AZ3Zzd6F3kTXN2HE' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:50:14.8733|DEBUG|Client.MainWindow|Received message: 'User,"Nhws?????i??0' from 'User2' Message type: 'SymmetricKey'
+2015-11-28 22:50:14.8924|DEBUG|Client.MainWindow|Received message: 'User,EAAAACvjNbaqqvSZEgQIy52N0tesXOb5AZ3Zzd6F3kTXN2HE' from 'User2' Message type: 'CryptoMessage'
+2015-11-28 22:51:23.5060|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:51:23.5410|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:51:26.1507|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:51:26.1832|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:51:26.2017|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 22:51:30.5403|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 22:51:30.5443|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 22:52:13.2948|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:52:13.3228|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:52:13.4249|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 22:52:16.9254|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:52:16.9614|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:52:16.9864|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 22:52:19.0795|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:52:19.0805|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 22:52:48.6533|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:52:48.6813|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:52:48.7804|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 22:52:50.7740|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 22:52:50.8001|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 22:52:50.8331|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 23:11:26.3742|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:11:26.3993|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:12:11.5246|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:12:11.5546|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:13:14.7486|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:13:14.7816|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:14:52.2715|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:14:52.2975|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:15:23.6030|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:15:23.6311|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:16:03.5090|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:16:03.5351|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:17:29.8988|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:17:29.9298|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:19:24.7042|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:19:24.7302|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:24:58.2012|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:24:58.2272|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:25:46.5377|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:25:46.5637|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:25:56.6359|DEBUG|Client.MainWindow|Received message: 'User,?V?' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:25:56.6359|DEBUG|Client.MainWindow|Received message: 'User,EAAAAE4/FzpsKzcjs9zhTzpt8gwS5+ct4BVv4qrgCXB1UeS9' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:28:05.7196|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:28:05.7446|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:28:38.2091|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:28:38.2371|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:28:58.6681|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:28:58.6961|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:28:58.7541|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 23:34:49.2107|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:34:49.2377|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:34:49.3167|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 23:34:53.5262|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-28 23:36:41.7253|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:36:41.7513|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:37:07.0361|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:37:07.0581|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:37:07.1382|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 23:41:38.1619|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:41:38.1889|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:41:44.3248|DEBUG|Client.MainWindow|Received message: 'User, r\' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:41:44.3308|DEBUG|Client.MainWindow|Received message: 'User,EAAAAB+uLP4qeJ5UFObzQPawxNjkYFII4TqYaSuNTJGIkM1+' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:41:47.1573|DEBUG|Client.MainWindow|Received message: 'User,v??' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:41:47.1613|DEBUG|Client.MainWindow|Received message: 'User,EAAAAOkjyNaxkZ1tLrqvFlOfxe0GoaHmt12KHy7bTU3yDsKn' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:41:47.8113|DEBUG|Client.MainWindow|Received message: 'User,+`?I' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:41:47.8153|DEBUG|Client.MainWindow|Received message: 'User,EAAAAFA5VpheC6d/b+IeygXj/mxVj9FEe5P+q5VNBnx5GWFT' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:41:48.3033|DEBUG|Client.MainWindow|Received message: 'User,+???' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:41:48.3033|DEBUG|Client.MainWindow|Received message: 'User,EAAAAB294CGGKNtU39uUiqkP+D05hwrvYnHGwJmXZIGMe5ej' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:41:48.5025|DEBUG|Client.MainWindow|Received message: 'User,j?E' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:41:48.5055|DEBUG|Client.MainWindow|Received message: 'User,EAAAAP7gKY+EYFVdSdWHTFRDqxusJgyWMXj7HhJ8B04RG9yS' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:41:48.7306|DEBUG|Client.MainWindow|Received message: 'User,-c??' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:41:48.7306|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPSjCOzlLedwaJ3v5mq9AerHoY3MN5B3WXGk6gyBHG1o' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:41:48.8652|DEBUG|Client.MainWindow|Received message: 'User,??6' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:41:48.8652|DEBUG|Client.MainWindow|Received message: 'User,EAAAAHTbE+OAcKFbsWivAQZRoi/8INIb0OB0SvQgXMPlI6Uo' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:42:10.4685|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:42:10.4956|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:42:13.1288|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:42:13.1548|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:42:13.1728|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-28 23:42:23.3366|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:42:23.3626|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:42:23.3756|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 23:42:23.3846|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-28 23:42:26.6316|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 23:42:26.6356|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 23:42:26.6316|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-28 23:42:33.8570|DEBUG|Client.MainWindow|Received message: 'User2,S?' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:42:33.8640|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAFA43SFadlXaeex+8oo2PlF0hIXuIeiKIQuUqTDOrYfk' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:42:33.8570|DEBUG|Client.MainWindow|Received message: 'User2,S?' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:42:33.8590|DEBUG|Client.MainWindow|Received message: 'User2,S?' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:42:33.8810|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAFA43SFadlXaeex+8oo2PlF0hIXuIeiKIQuUqTDOrYfk' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:42:33.8770|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAFA43SFadlXaeex+8oo2PlF0hIXuIeiKIQuUqTDOrYfk' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:44:34.7807|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:44:34.8067|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:44:49.3278|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:44:49.3578|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:45:12.7569|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:45:12.7839|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:45:18.6477|DEBUG|Client.MainWindow|Received message: 'User,q?' from 'User' Message type: 'SymmetricKey'
+2015-11-28 23:45:18.6477|DEBUG|Client.MainWindow|Received message: 'User,EAAAADy+Erix2md86M8A7rt4eSGMDWdUcd9kLUoNW97TW1tY' from 'User' Message type: 'CryptoMessage'
+2015-11-28 23:46:40.5454|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:46:40.5744|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:47:33.7989|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:47:33.8269|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-28 23:52:30.1097|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-28 23:52:30.1397|DEBUG|Client.ConnectionConnector|Successfully connected to the server.

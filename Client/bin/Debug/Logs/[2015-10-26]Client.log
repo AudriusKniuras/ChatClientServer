@@ -1,0 +1,28 @@
+2015-10-26 19:29:55.8627|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:29:55.9453|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:33:37.8381|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:33:37.8771|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:35:55.2397|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:35:55.2817|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:36:48.9107|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:36:48.9357|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:38:35.3626|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:38:35.3876|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:39:46.4312|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:39:46.4612|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:43:05.3140|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:43:05.3389|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:49:59.6408|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:49:59.6688|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:50:51.2379|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:50:51.2899|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:51:52.4386|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:51:52.4685|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:58:07.1674|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:58:07.2129|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:59:39.7103|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-26 19:59:39.7534|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-26 19:59:39.8064|DEBUG|Client.MainWindow|Received message: 's>>> User ?'
+2015-10-26 19:59:44.6777|DEBUG|Client.MainWindow|Received message: ''
+2015-10-26 19:59:46.1846|DEBUG|Client.MainWindow|Received message: ''
+2015-10-26 19:59:55.9530|DEBUG|Client.MainWindow|Received message: ''

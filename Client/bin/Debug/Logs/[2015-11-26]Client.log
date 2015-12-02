@@ -1,0 +1,57 @@
+2015-11-26 18:38:10.7710|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 18:38:10.8763|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 18:38:10.9763|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-26 18:38:17.8696|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-26 18:38:19.6929|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-26 18:38:19.8692|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-26 18:38:20.0569|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-26 19:57:26.6124|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 19:57:26.6424|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 19:58:24.0344|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 19:58:24.0665|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 19:59:54.7486|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 19:59:54.7906|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 19:59:54.8689|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-26 20:00:02.4168|DEBUG|Client.MainWindow|Received message: 'z' from 'User' Message type: 'Null'
+2015-11-26 20:07:39.6568|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 20:07:39.7066|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 20:07:39.8236|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-26 20:07:44.4253|DEBUG|Client.MainWindow|Received message: 'x' from 'User' Message type: 'Null'
+2015-11-26 20:07:45.9450|DEBUG|Client.MainWindow|Received message: 'x' from 'User' Message type: 'Null'
+2015-11-26 20:09:23.2980|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 20:09:23.3300|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 20:09:34.8797|DEBUG|Client.MainWindow|Received message: '' from '' Message type: 'Null'
+2015-11-26 20:09:34.8987|DEBUG|Client.MainWindow|Received message: '' from '' Message type: 'Null'
+2015-11-26 20:09:46.6198|DEBUG|Client.MainWindow|Received message: 'z' from 'User' Message type: 'Null'
+2015-11-26 20:09:47.6421|DEBUG|Client.MainWindow|Received message: 'z' from 'User' Message type: 'Null'
+2015-11-26 20:14:53.8910|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 20:14:53.9370|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 20:14:59.2020|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-26 20:15:03.5647|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-26 20:15:28.5591|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 20:15:28.6037|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:22:14.5100|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:22:14.5446|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:23:50.9895|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:23:51.0250|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:24:15.1826|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-26 22:25:36.2578|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:25:36.2949|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:25:59.1424|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:25:59.1765|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:26:16.9537|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:26:17.0103|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:26:25.7226|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:26:25.7566|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:37:00.2719|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:37:00.3059|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:37:19.4287|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:37:19.4707|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:37:30.8618|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:37:30.8978|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:39:51.9654|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:39:52.0465|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:41:52.4923|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:41:52.5468|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-26 22:42:05.6942|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-26 22:42:05.7302|DEBUG|Client.ConnectionConnector|Successfully connected to the server.

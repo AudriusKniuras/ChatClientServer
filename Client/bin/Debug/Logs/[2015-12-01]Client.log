@@ -1,0 +1,364 @@
+2015-12-01 17:13:04.4210|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 17:13:04.4731|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 17:13:04.6146|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 17:13:12.5738|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 17:13:12.5968|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 17:13:12.6408|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-01 17:17:13.4420|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 17:17:13.4700|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 17:17:22.8934|DEBUG|Client.MainWindow|Received message: 'User,!???LO???\????_' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:22.8934|DEBUG|Client.MainWindow|Received message: 'User,EAAAALzo1PR2NCOkNvl4xwb+thZ30tcYUYC8gCccwJB2AA/h' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:23.6489|DEBUG|Client.MainWindow|Received message: 'User,??H??2?4Z??4?f?"' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:23.6489|DEBUG|Client.MainWindow|Received message: 'User,EAAAAGuVT6aAWcCicRGRXx+YrrnAxZ4gjYmNsluwd9ekJfzS' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:23.8271|DEBUG|Client.MainWindow|Received message: 'User,y???mM?*???B???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:23.8311|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPDTiZte/MyY4HlyiRSRDQp/fLcTKmYH1nCNatoVy3t4' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:24.0052|DEBUG|Client.MainWindow|Received message: 'User,??l~??<?}???#U' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:24.0052|DEBUG|Client.MainWindow|Received message: 'User,EAAAAM+D9ta716rnb61nddyVg/9iPPdzI2FMOzQc5TYsKsaD' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:24.1953|DEBUG|Client.MainWindow|Received message: 'User,9???"????????=A:' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:24.1953|DEBUG|Client.MainWindow|Received message: 'User,EAAAADR00o6f4DBg6ChJ8RZcIZVKhAlijaKaueIeyhOVxuf1' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:24.3975|DEBUG|Client.MainWindow|Received message: 'User,|F7{?IHc?9?????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:24.3975|DEBUG|Client.MainWindow|Received message: 'User,EAAAAOkTluFFcG9ztjAe4POR5UMJTq1Lz+aUPlUOEgonQJlv' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:24.5115|DEBUG|Client.MainWindow|Received message: 'User,pt?"??W+>t???Q?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:24.5115|DEBUG|Client.MainWindow|Received message: 'User,EAAAALSY+bEB1CapsnHFMKg11ENGU7JdsUSA/rQDdBgtBGqh' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:24.6988|DEBUG|Client.MainWindow|Received message: 'User,~?Q??_dc?[;eu?T' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:24.6988|DEBUG|Client.MainWindow|Received message: 'User,EAAAANIMFstmH/HgmaijOrdQOoRRA5YzzX3TTbHEr/Qpo5fk' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:24.8199|DEBUG|Client.MainWindow|Received message: 'User,)????{??BE?h/??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:24.8199|DEBUG|Client.MainWindow|Received message: 'User,EAAAAG+h6a5N3mCMgu5WyZI3GuW6F7Kvf2COIN22X/pGqATZ' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:25.0166|DEBUG|Client.MainWindow|Received message: 'User,??Z?Y??????V?O?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:25.0346|DEBUG|Client.MainWindow|Received message: 'User,EAAAAO1tgIJISqfIW3IA3rFiT0eCnVcN56DlEI1YvhOQfJJN' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:25.1849|DEBUG|Client.MainWindow|Received message: 'User,W??,?K?'?J?dq' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:25.1849|DEBUG|Client.MainWindow|Received message: 'User,EAAAACXI8c8QuxBq3X1ceCm0jynSAI2iS9UOExEKTPGl66Cp' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:25.3630|DEBUG|Client.MainWindow|Received message: 'User,?.???Hb????%A-_' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:25.3630|DEBUG|Client.MainWindow|Received message: 'User,EAAAALCR71crdgod1jp5kRoVP28h3zj7fBHNW0bvJh3cvXOr' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:25.4791|DEBUG|Client.MainWindow|Received message: 'User,????????m?3????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:25.4791|DEBUG|Client.MainWindow|Received message: 'User,EAAAADVXdpYL9dwG1lHRCoboV3helkXgOIPIQKhbXLUqUG6z' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:25.6903|DEBUG|Client.MainWindow|Received message: 'User,4??m???????????*' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:25.6903|DEBUG|Client.MainWindow|Received message: 'User,EAAAACYhCxcQhCLMBGYpyIPRQn+agx+y2NjH0fhuFDaG48zp' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:25.8280|DEBUG|Client.MainWindow|Received message: 'User,M?N?B???F?!Z?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:25.8310|DEBUG|Client.MainWindow|Received message: 'User,EAAAAG9wVEdP2VezuWijV9aJs6Wg82sSqCmohSVppSv5g4rZ' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:26.0222|DEBUG|Client.MainWindow|Received message: 'User,H??v??|?$&?p ' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:26.0222|DEBUG|Client.MainWindow|Received message: 'User,EAAAAJg2uAF7w74UAQ2TPTT8Zh4vdKJz7cbd92Za0CqjL/I/' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:26.1433|DEBUG|Client.MainWindow|Received message: 'User,?????i2@d?^EJ??0' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:26.1473|DEBUG|Client.MainWindow|Received message: 'User,EAAAAM96CAigONfg0iEOoKdMcSllcZoBjfyvhfA8w6DKW/uS' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:26.3572|DEBUG|Client.MainWindow|Received message: 'User,???.@?q??&?[r??`' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:26.3572|DEBUG|Client.MainWindow|Received message: 'User,EAAAAL+w5CU1oxcVoU9RWA1TD72WUBPwkDdFUZvU6QJrUqJ5' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:26.4772|DEBUG|Client.MainWindow|Received message: 'User,xv^Y?R!????k???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:26.4772|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPK6wRQ4FEynijmtbeivSryuQ8pdNqD2xfCVMLtAtR/u' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:26.6744|DEBUG|Client.MainWindow|Received message: 'User,??}`?9y*:?G~??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:26.6794|DEBUG|Client.MainWindow|Received message: 'User,EAAAANDv/udX+6rXb+5TBUAswzlh213DbsYxzUvTQ1YFsiyb' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:26.8162|DEBUG|Client.MainWindow|Received message: 'User,???{????W??.????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:26.8162|DEBUG|Client.MainWindow|Received message: 'User,EAAAAJu5x2DVivrZuERf1/EjDIg50vbYaIUpBF3I6QYNDtYA' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:27.0207|DEBUG|Client.MainWindow|Received message: 'User,Z]???3r$6???J??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:27.0207|DEBUG|Client.MainWindow|Received message: 'User,EAAAAEvjLtkrOUltRrfKKYdiDrfOSX2HDfAcnb+WN1zdent8' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:27.1477|DEBUG|Client.MainWindow|Received message: 'User,?N<v?Iz??J??????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:27.1477|DEBUG|Client.MainWindow|Received message: 'User,EAAAAI99Z7wRNV8WlumbQU3UsOagy1kvUzivD7vUBZ9B2I3g' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:27.3351|DEBUG|Client.MainWindow|Received message: 'User,a ?i??-?1??_CeO' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:27.3351|DEBUG|Client.MainWindow|Received message: 'User,EAAAABbYkW4nU9Z8N11K+9F/uBNsgBiASOnwVdMDuTR5cxTG' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:27.4617|DEBUG|Client.MainWindow|Received message: 'User,????tY??VE?m?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:27.4617|DEBUG|Client.MainWindow|Received message: 'User,EAAAANQL19ZMtO2FxcoHSDFNKUHF4LQd368mLtzGhW5pEj/b' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:27.5878|DEBUG|Client.MainWindow|Received message: 'User,???]yYH`??3?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:27.5878|DEBUG|Client.MainWindow|Received message: 'User,EAAAALDn//Ly009Wq5A0zW6lFQiDlFPrXeyxQ4wJkHEqj++l' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:27.7154|DEBUG|Client.MainWindow|Received message: 'User,?y6??????????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:27.7154|DEBUG|Client.MainWindow|Received message: 'User,EAAAAHCgh6VDgMh9J3qTRIrB0kedScdBwQORskip6sPJs2GR' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:27.9487|DEBUG|Client.MainWindow|Received message: 'User,%??????St?<?=?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:27.9567|DEBUG|Client.MainWindow|Received message: 'User,EAAAAGfJPNboEeCzwlvG4RoRN+CRrpQOFjW0HFChOLHpE0/m' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:28.1088|DEBUG|Client.MainWindow|Received message: 'User,65]??s?@?@x#???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:28.1158|DEBUG|Client.MainWindow|Received message: 'User,EAAAABVJg+lCWs/GMilaa5HW4grgstx0L953q1+hxASnyS29' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:28.2439|DEBUG|Client.MainWindow|Received message: 'User,??e?>???c?)0"?S?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:28.2439|DEBUG|Client.MainWindow|Received message: 'User,EAAAAH4JPaWzxA1A9lXz3CxWTFx06QllOGsEbjv2aCo+3RhX' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:28.3780|DEBUG|Client.MainWindow|Received message: 'User,y?TuX???y!p?{~?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:28.3780|DEBUG|Client.MainWindow|Received message: 'User,EAAAAIjZOnfZwNTejDAb1OkrGTMX15/B/S5P0ByToIPLo+Zw' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:28.5771|DEBUG|Client.MainWindow|Received message: 'User,"??|?v?,K0O??_' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:28.5811|DEBUG|Client.MainWindow|Received message: 'User,EAAAABRvGcegj2Nz7DbjL4Sn9ThKu8E10sqyUVZLbKB7b3XJ' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:28.7152|DEBUG|Client.MainWindow|Received message: 'User,%=???n????gT?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:28.7152|DEBUG|Client.MainWindow|Received message: 'User,EAAAAGjPGGf+cEUM/QjSrWJOTG+5l5vaHgnq8IKFermdOXtB' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:28.8313|DEBUG|Client.MainWindow|Received message: 'User,{?6?M2~??????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:28.8313|DEBUG|Client.MainWindow|Received message: 'User,EAAAAN3sU+aYfXcPQrtoZoqVqAReHPSl8F/FXpWqUK/lKN2/' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:29.0117|DEBUG|Client.MainWindow|Received message: 'User,k?%'?l?I???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:29.0117|DEBUG|Client.MainWindow|Received message: 'User,EAAAAAaBfH/0RDKjq+nq4O92hTGhTI/Dcpdpyf/EVnYGuQP9' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:29.2303|DEBUG|Client.MainWindow|Received message: 'User,JMB?????????	?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:29.2303|DEBUG|Client.MainWindow|Received message: 'User,EAAAAHi5FQjvJLi122Vfylid1wwapFHUPGZ5TNNsIplXTO7F' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:29.3534|DEBUG|Client.MainWindow|Received message: 'User,q?????J?V???? ' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:29.3534|DEBUG|Client.MainWindow|Received message: 'User,EAAAAJIk/0Q/XESHt9NuLNaAgyx2BnFiwimMS1kk93MI3JlO' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:29.4875|DEBUG|Client.MainWindow|Received message: 'User,??{???"??????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:29.4875|DEBUG|Client.MainWindow|Received message: 'User,EAAAAFKaFzrW4Vq0GHdqaEOtiJiTy3ma+eabzYIDclyUhr6k' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:29.6663|DEBUG|Client.MainWindow|Received message: 'User,N??H?3euyb??I[5' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:29.6663|DEBUG|Client.MainWindow|Received message: 'User,EAAAAD8/jYvGsyJNhxuU+11Szlu7M4nwYEUSC0cuEr1f98ny' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:29.9195|DEBUG|Client.MainWindow|Received message: 'User,?u??,???Q??OG??=' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:29.9195|DEBUG|Client.MainWindow|Received message: 'User,EAAAANASTIjHAP2IhdVw2CbskKQj938iENBYZIYmjTw3mdsE' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:30.0566|DEBUG|Client.MainWindow|Received message: 'User,r?A?.d??h?Z???>' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:30.0566|DEBUG|Client.MainWindow|Received message: 'User,EAAAABMPyznzcW2YCUzMfuC1f5pmlJWwyF3gMKt+rWDyag7q' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:30.2177|DEBUG|Client.MainWindow|Received message: 'User,h?v????s"?5>' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:30.2177|DEBUG|Client.MainWindow|Received message: 'User,EAAAAE4rQxyDSPX6BZbCjtZ+tGsM7KlS03RDiugyRH5wF98I' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:30.3520|DEBUG|Client.MainWindow|Received message: 'User,??U"?-!?QKA' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:30.3520|DEBUG|Client.MainWindow|Received message: 'User,EAAAAA2RVdKtHgrklScgiikVHLvb8XHefEZM22msmSmL6RRI' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:30.4721|DEBUG|Client.MainWindow|Received message: 'User,?]?????%%???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:30.4721|DEBUG|Client.MainWindow|Received message: 'User,EAAAAKFGF3TAd/2bas9KbjtuMpwKuBcSqsRXSl1KEjmu5JlG' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:30.6037|DEBUG|Client.MainWindow|Received message: 'User,?^????]??????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:30.6037|DEBUG|Client.MainWindow|Received message: 'User,EAAAANemJFU7vKckDJm/DDJ3ei8pZvWmxLikIJN7xm8ryj6n' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:30.8138|DEBUG|Client.MainWindow|Received message: 'User,?U?'??Z?[??????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:30.8218|DEBUG|Client.MainWindow|Received message: 'User,EAAAAOdo+TRmOO9f8idqKGaIVsgei9eKXG1MOzhW3OhpIiaE' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:30.9399|DEBUG|Client.MainWindow|Received message: 'User,88 D??????????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:30.9439|DEBUG|Client.MainWindow|Received message: 'User,EAAAAFcXjuoBAs7VgTntp947dYZtgSnq/OWZ2Oz0TuIXxM8P' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:31.0650|DEBUG|Client.MainWindow|Received message: 'User,w?S?[?s??(??TO=K' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:31.1091|DEBUG|Client.MainWindow|Received message: 'User,EAAAADOFwjGzeJ2jt1BIDYUptwZjco0HL+ULQ9YKgEch9QVY' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:31.2472|DEBUG|Client.MainWindow|Received message: 'User,&' ????H?uw:??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:31.2472|DEBUG|Client.MainWindow|Received message: 'User,EAAAADIP0b4UdHkiQEBQtS4kP1BQA+va2UMi3jpIaaYuayKw' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:31.3559|DEBUG|Client.MainWindow|Received message: 'User,\m?f?j?YP???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:31.3559|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPjErroQzjXgL6c6Ddi+xPSD+0sElQZNGa/aEXVMi21N' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:31.5000|DEBUG|Client.MainWindow|Received message: 'User,?BS??b#D5I?????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:31.5035|DEBUG|Client.MainWindow|Received message: 'User,EAAAAN92kujSEja7HhuaL59FCCTPm6HJPzV33XXd55p6FISM' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:31.6857|DEBUG|Client.MainWindow|Received message: 'User,a????????	??&'3' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:31.6857|DEBUG|Client.MainWindow|Received message: 'User,EAAAALqGFzma7C/PLdE6hb/PAkmxROH2PizPuOnrAI6Mo/wX' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:31.8037|DEBUG|Client.MainWindow|Received message: 'User,3?`s8?e???CN~?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:31.8037|DEBUG|Client.MainWindow|Received message: 'User,EAAAAOXfSOp0onnZsjzZ8LtywX5VGr06fP+7U7P/q0yJfZl+' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:32.0174|DEBUG|Client.MainWindow|Received message: 'User,q?:?3?k?E;A?m?>/' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:32.0234|DEBUG|Client.MainWindow|Received message: 'User,EAAAAEnazn/dpXLyeXD5KIrjtwQAJWbQSupgakwgk9UPkIL6' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:32.1375|DEBUG|Client.MainWindow|Received message: 'User,y<M'???*??:?j?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:32.1375|DEBUG|Client.MainWindow|Received message: 'User,EAAAAI5sWr7KLJYqP6jRhEaMpgGPaJS1LfIfdYdxfgFuqpiR' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:32.4337|DEBUG|Client.MainWindow|Received message: 'User,A?v??I??????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:32.4337|DEBUG|Client.MainWindow|Received message: 'User,EAAAAH01uq8wfbYr1OodWNN9UV7sJKFXIPXPFKCv75Ojebm2' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:32.6383|DEBUG|Client.MainWindow|Received message: 'User,??s/~AM#_NWI' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:32.6383|DEBUG|Client.MainWindow|Received message: 'User,EAAAAKBGAEZYs9x7kxc+L3gaS2AMTwKX7xw6IIUZIYhQ+HZ6' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:32.8334|DEBUG|Client.MainWindow|Received message: 'User,^{???-??n???|?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:32.8334|DEBUG|Client.MainWindow|Received message: 'User,EAAAAGIf1UJ/xVudFH6Arcp2chUYJ/Ag/XbnBZClE1npixF/' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:32.9610|DEBUG|Client.MainWindow|Received message: 'User,?{#????????Y??,' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:32.9610|DEBUG|Client.MainWindow|Received message: 'User,EAAAALpBMRJ0YezYkzyWJE6o60ASFim9DFK5rTPlOoxX4vSr' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:33.2325|DEBUG|Client.MainWindow|Received message: 'User,V?iGt?5?P??X?>8?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:33.2325|DEBUG|Client.MainWindow|Received message: 'User,EAAAAClnYZZsD5JDt8PD7eCGw84qTujN4petJg47idwxWeZj' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:34.2933|DEBUG|Client.MainWindow|Received message: 'User,
+5?f?	Rs?????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:34.2933|DEBUG|Client.MainWindow|Received message: 'User,EAAAALHDzWdoKbcOl+YLrk0EbRhDFmnV10kexXz8LrHgesIg' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:34.6967|DEBUG|Client.MainWindow|Received message: 'User,?	??c(???	l???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:34.6967|DEBUG|Client.MainWindow|Received message: 'User,EAAAAAZi6DKuWSc43jTnIfd67BJ4BrhoyU+hUgeXGm5G9QMc' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:34.8976|DEBUG|Client.MainWindow|Received message: 'User,?????1????g?e?D' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:34.8976|DEBUG|Client.MainWindow|Received message: 'User,EAAAABNObTEKfdNFYqWrIYbu9ZkfGBolnOfxR4+o1ygCgTxP' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:35.1053|DEBUG|Client.MainWindow|Received message: 'User,{??b?{???V*?6?Z' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:35.1053|DEBUG|Client.MainWindow|Received message: 'User,EAAAAAghWEalW190PFp1iI3g6OSCsde0ONy7LtUtLk5UFGg7' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:35.2214|DEBUG|Client.MainWindow|Received message: 'User,%?????O%???-/' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:35.2259|DEBUG|Client.MainWindow|Received message: 'User,EAAAAN1Z7H5Xpifv2LOOaJGUgiQZ7vecJZLq0lQFtWOm4qK2' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:35.4200|DEBUG|Client.MainWindow|Received message: 'User,P??TKT???J????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:35.4200|DEBUG|Client.MainWindow|Received message: 'User,EAAAALpepJg1zAFE9BqdpwZyvyy5GhoZ6KFbW0db4fRwVLnY' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:35.5521|DEBUG|Client.MainWindow|Received message: 'User,e??>J?ay????W?r?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:35.5521|DEBUG|Client.MainWindow|Received message: 'User,EAAAAAt3vlaCHDD5DC5dWWVTBiTsDd4LcdYK9Ujo4WdDDQMR' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:35.7433|DEBUG|Client.MainWindow|Received message: 'User,??$?h?`z?t?.???6' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:35.7433|DEBUG|Client.MainWindow|Received message: 'User,EAAAAE85oou7R7A7zsKLPEwYFm5QWDfSk+g1fYW1zxc2K5AB' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:35.8603|DEBUG|Client.MainWindow|Received message: 'User,?|!??;????x???o' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:35.8643|DEBUG|Client.MainWindow|Received message: 'User,EAAAALtm2TPGoxYpB+m5x8zkeqQz6RjKq7E67Qo7f69V2rIV' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:36.0465|DEBUG|Client.MainWindow|Received message: 'User,	??#i???b(?????5' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:36.0465|DEBUG|Client.MainWindow|Received message: 'User,EAAAAOUzcU1i8givb4MY8si6ifbl1pvvb1pu9uy6+r0/o5EW' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:36.1736|DEBUG|Client.MainWindow|Received message: 'User,?z8??Yy5????l?b?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:36.1776|DEBUG|Client.MainWindow|Received message: 'User,EAAAAMgQnT10xICS0uJxyMCdCwqFLPPoNdeCr9u889SWSAZj' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:36.3615|DEBUG|Client.MainWindow|Received message: 'User,?Xx?o????W?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:36.3650|DEBUG|Client.MainWindow|Received message: 'User,EAAAAGPHrV//Pw7i7okZha4wEVFbUG1g+YUxquB6lmlog6x9' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:36.4681|DEBUG|Client.MainWindow|Received message: 'User,?
+?#??HU??;??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:36.4716|DEBUG|Client.MainWindow|Received message: 'User,EAAAAO8DYWQNabbnKTdzpub85AxwNFZAirGZztUMnXnHpf5X' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:36.6878|DEBUG|Client.MainWindow|Received message: 'User,FD??????O?iU"CG' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:36.6908|DEBUG|Client.MainWindow|Received message: 'User,EAAAAH84w/wPwotpvM2WtBENuZ6UmScFyEMGh+gYN6+Hlkkv' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:36.8038|DEBUG|Client.MainWindow|Received message: 'User,;?7q?????C???#??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:36.8038|DEBUG|Client.MainWindow|Received message: 'User,EAAAAATuXlzNrDbmsBS4pUbPn8oYxXxwGz2JQFR1rlodO8aE' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:36.9847|DEBUG|Client.MainWindow|Received message: 'User,?6x?F??????^??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:36.9892|DEBUG|Client.MainWindow|Received message: 'User,EAAAAJIastKP8uard8Lg99gazTHCnX3ox2nVb2uXEjhCUZ1K' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:37.0933|DEBUG|Client.MainWindow|Received message: 'User,(h?Im???? <??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:37.0968|DEBUG|Client.MainWindow|Received message: 'User,EAAAAJxPiLWvtN0QHDab+Zf60t4JeJT3cwkkT0ebpajhLXUT' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:37.2904|DEBUG|Client.MainWindow|Received message: 'User,HiZJN3??+?d??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:37.2904|DEBUG|Client.MainWindow|Received message: 'User,EAAAAOTnjuvG/+t0wOvrKk7MFM6AcMo6Nc7+RHE0uEsizvum' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:37.4395|DEBUG|Client.MainWindow|Received message: 'User,1?7R?+? ?????>?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:37.4435|DEBUG|Client.MainWindow|Received message: 'User,EAAAACOhGE9BuK2aFGpy7VeO9xjUB1PSoNHCVb74b41V+gV/' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:37.6267|DEBUG|Client.MainWindow|Received message: 'User,U??WZ?"P?>?^I??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:37.6307|DEBUG|Client.MainWindow|Received message: 'User,EAAAADeEpEfwLpBwVRkzoV5dXq0lgsUBR5sL+6ZDQN1OGaVy' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:37.7317|DEBUG|Client.MainWindow|Received message: 'User,BrA??2"1??)??g ' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:37.8719|DEBUG|Client.MainWindow|Received message: 'User,?f)??<???L??w?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:37.8719|DEBUG|Client.MainWindow|Received message: 'User,EAAAADNZ/ImCoy7ON98yg9U8kbxtIPpqrw50SbJwRaDCL4ko' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:38.0805|DEBUG|Client.MainWindow|Received message: 'User,0E??e<"*D? ' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:38.0860|DEBUG|Client.MainWindow|Received message: 'User,EAAAAKXPbEA7weuJQTMSQn/TZ1+zrsxhHP/oHywTk4i4PFUM' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:38.2761|DEBUG|Client.MainWindow|Received message: 'User,=?????[sP??k8' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:38.2761|DEBUG|Client.MainWindow|Received message: 'User,EAAAAFxMM6YwEiHMAXCPtVtkLHHDtBHKqztS1hEOQzuJNy0E' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:38.4122|DEBUG|Client.MainWindow|Received message: 'User,?[@???  ????v<??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:38.4122|DEBUG|Client.MainWindow|Received message: 'User,EAAAAOIXJdNZ8ZXXcGIVQGpaO1jhZIWbhonhpK/bpdLYjwGL' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:38.5343|DEBUG|Client.MainWindow|Received message: 'User,@#??????SQ???%7?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:38.5343|DEBUG|Client.MainWindow|Received message: 'User,EAAAAFfbcmW6wuQqy7MPGyHHnx1+0bykleaX/OIVaPxIBt5e' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:38.6764|DEBUG|Client.MainWindow|Received message: 'User,M??18tf???d????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:38.8124|DEBUG|Client.MainWindow|Received message: 'User,z?????????P???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:38.8194|DEBUG|Client.MainWindow|Received message: 'User,EAAAAA3mAS5MiO0nz28L5hXjCuBM6ORkjE3igkQmr3vuAx7b' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:39.0036|DEBUG|Client.MainWindow|Received message: 'User,
+V?)h?Z~??L???c' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:39.0036|DEBUG|Client.MainWindow|Received message: 'User,EAAAANsXc8j/tYnLGC64BC9Ed290ev22t8wtqC8dcWiqmmt0' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:39.1877|DEBUG|Client.MainWindow|Received message: 'User,;?a??s5??%a?J??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:39.1917|DEBUG|Client.MainWindow|Received message: 'User,EAAAAO1O8/7m8jwdMJhaC6bHafu26q0ZnMTV4FyvvPIln8KU' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:39.3288|DEBUG|Client.MainWindow|Received message: 'User,?<???Q???;????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:39.3338|DEBUG|Client.MainWindow|Received message: 'User,EAAAAMUNWFN4yjl5nUJ4uRAB2FVn2MH1tlVzO+CdL7pQbMQT' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:39.5370|DEBUG|Client.MainWindow|Received message: 'User,b???kf??????0?7' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:39.5370|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPGQkUzCw4Fi9u35+ZHl6oowfUFPx4H9is0Uj26JoLF4' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:39.6641|DEBUG|Client.MainWindow|Received message: 'User,Z?5????#Hy?P(?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:39.6641|DEBUG|Client.MainWindow|Received message: 'User,EAAAALYxLadU9zBscKuxnjQe8klPsaNtbszqdYhUe3BORex9' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:39.8459|DEBUG|Client.MainWindow|Received message: 'User,T??w?4?c?*0?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:39.8499|DEBUG|Client.MainWindow|Received message: 'User,EAAAAFRlknCHbD/xTEijuQhqIXylLjQKsP4PH4Uioubg+1si' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:39.9764|DEBUG|Client.MainWindow|Received message: 'User,?c?A?H?&??Y????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:39.9764|DEBUG|Client.MainWindow|Received message: 'User,EAAAAHoyT1vgEiKEdF92r9c2AcNv7S+RMP7uIhui5oa2drXz' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:40.1643|DEBUG|Client.MainWindow|Received message: 'User,T???U?z^??ySTd' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:40.1643|DEBUG|Client.MainWindow|Received message: 'User,EAAAACK/tfAXkzhvfJWskZ0vXEhQC8PYZZ0pCskNsHAu+hTD' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:40.2893|DEBUG|Client.MainWindow|Received message: 'User,?i?,?z???z??Z?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:40.2893|DEBUG|Client.MainWindow|Received message: 'User,EAAAAEP/XyaakK41B7uVkDnSLeUeMOdUIvrKfdWeMho3HSZH' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:40.4825|DEBUG|Client.MainWindow|Received message: 'User,?h???@?R;^?"!o' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:40.4825|DEBUG|Client.MainWindow|Received message: 'User,EAAAAHcMCiyJOgfSTDmwKj2h+2tPgwNcoHpo/3NLFUk+eQOL' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:40.6181|DEBUG|Client.MainWindow|Received message: 'User,?w??V)??????]b' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:40.6181|DEBUG|Client.MainWindow|Received message: 'User,EAAAAAsmfhjmY+MeCx7i7atspWqrSuqoZjErx51gRQoNPLVB' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:40.8280|DEBUG|Client.MainWindow|Received message: 'User,o?????????5???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:40.8315|DEBUG|Client.MainWindow|Received message: 'User,EAAAAKy7dtt8W3fT74y5lx9hB4L+bWyHFiL491Vy5HJrDrmW' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:40.9390|DEBUG|Client.MainWindow|Received message: 'User,??&???:?Z^??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:40.9450|DEBUG|Client.MainWindow|Received message: 'User,EAAAAJdwFJzWMKCVnFOsdVReXcR12JJdximm2Dgl1yHgbp3a' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:41.1367|DEBUG|Client.MainWindow|Received message: 'User,q??6?]#~W??? ?(' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:41.1367|DEBUG|Client.MainWindow|Received message: 'User,EAAAADdrsT366RTNlZMxADUW801+NUq9QMaFlitAz8/6fuDB' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:41.2568|DEBUG|Client.MainWindow|Received message: 'User,S??9'?Z?h?'?v ' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:41.2568|DEBUG|Client.MainWindow|Received message: 'User,EAAAAE4auuESU0pa0ZT2JKjEYUY8UI/A4re1oOHKl3IohN7J' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:41.4624|DEBUG|Client.MainWindow|Received message: 'User,J???W<c?????&,' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:41.4624|DEBUG|Client.MainWindow|Received message: 'User,EAAAANiButfSRm+ROmPjUWn0wiKJQiecj4M1+gTZo58lwxvC' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:41.5660|DEBUG|Client.MainWindow|Received message: 'User,?%?G??w??.X?0' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:41.5660|DEBUG|Client.MainWindow|Received message: 'User,EAAAAK7s6Sjq0E5JR5fR1eg+ke6AUBUhBdahNy+hLTo810+e' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:41.7892|DEBUG|Client.MainWindow|Received message: 'User,l?!??? )L?=??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:41.7892|DEBUG|Client.MainWindow|Received message: 'User,EAAAAJuifWq3g+4Y6llr6mFwisrpq8i1ndrIHDRJqP/o6ZfM' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:41.9263|DEBUG|Client.MainWindow|Received message: 'User,n?{?E?-????[kW' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:41.9263|DEBUG|Client.MainWindow|Received message: 'User,EAAAAP5wO4xUZqvP543jYZto4Ds3Ws83mqIneYU46/lxBJ8F' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:42.1184|DEBUG|Client.MainWindow|Received message: 'User,??6??`????t?
+?' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:42.1184|DEBUG|Client.MainWindow|Received message: 'User,EAAAABKDgSaBYvdXxwd4MdBKxZL9ChP+5jK0yktxJRq2EfCx' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:42.2445|DEBUG|Client.MainWindow|Received message: 'User,A?U"?,1w?m???' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:42.2445|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPg6+Bf/100rftLDbNR1m35180lZ9n82MGIywna1Mt3s' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:42.4681|DEBUG|Client.MainWindow|Received message: 'User,+?????O????,??~' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:42.4741|DEBUG|Client.MainWindow|Received message: 'User,EAAAAIdYzYae9Oys2bpvR9CjcQJFZiIfCJ1G7tOgNr90imuv' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:42.6062|DEBUG|Client.MainWindow|Received message: 'User,?? +s??]????' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:42.7558|DEBUG|Client.MainWindow|Received message: 'User,b;?f?*t????d ' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:42.7558|DEBUG|Client.MainWindow|Received message: 'User,EAAAAF0clh3ACN+fOkmODCSff3E7fL9rk1RdFMDjeJ72U/f8' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:17:42.9659|DEBUG|Client.MainWindow|Received message: 'User,!?1?p??u ?g??' from 'User' Message type: 'SymmetricKey'
+2015-12-01 17:17:42.9659|DEBUG|Client.MainWindow|Received message: 'User,EAAAAIhnbymnQEI1un+vLa5Mp66sVdsZXZjGwbyzxQlULIyz' from 'User' Message type: 'CryptoMessage'
+2015-12-01 17:19:51.4219|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 17:19:51.4504|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 18:20:02.0487|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 18:20:02.0767|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 19:51:43.6978|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 19:51:43.7348|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 19:51:43.8041|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 19:52:22.7378|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 19:52:22.7738|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 19:52:22.8268|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 19:52:30.3917|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 19:52:30.4187|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 19:52:30.4437|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 19:52:39.2645|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 19:52:39.3106|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 19:52:39.3386|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 19:52:39.3506|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 19:52:49.1847|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-12-01 19:52:49.1877|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-12-01 19:52:49.1877|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-12-01 19:53:37.1951|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 19:53:37.2251|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 19:53:37.2651|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:00:43.1283|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:00:43.1633|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:00:53.4877|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:00:53.5127|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:00:53.5337|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-01 20:01:02.3527|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-12-01 20:01:02.3557|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-12-01 20:02:03.4575|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:02:03.4835|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:02:57.1772|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:02:57.2072|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:02:57.2862|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:03:11.9944|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:03:12.0335|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:08:16.3588|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:08:16.3859|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:09:38.6747|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:09:38.7048|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:09:38.8002|DEBUG|Client.MainWindow|Received message: '262375619795265967192537954884649280527' from 'server' Message type: 'ParameterN'
+2015-12-01 20:09:42.6247|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-01 20:09:53.6883|DEBUG|Client.MainWindow|Received message: 'System.Byte[],User,EAAAAKHtwRckBIHrNVTCgJEOkCvdtUexXMECACl1wyYBKpOc' from 'User' Message type: 'CryptoMessage'
+2015-12-01 20:11:45.0615|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:11:45.0905|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:11:45.1558|DEBUG|Client.MainWindow|Received message: '189126213213625022565937798173249463129' from 'server' Message type: 'ParameterN'
+2015-12-01 20:11:45.1688|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-01 20:11:59.8410|DEBUG|Client.MainWindow|Received message: 'System.Byte[],User,EAAAAEPuT0CSsDy+RZuU2cFP6DNpC/gH2KSzeQfS+8SjRfJO' from 'User' Message type: 'CryptoMessage'
+2015-12-01 20:13:34.7634|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:13:34.8205|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:13:34.8939|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:13:34.8939|DEBUG|Client.MainWindow|Received message: '181470141641717339771930975782506824831' from 'server' Message type: 'ParameterN'
+2015-12-01 20:13:43.9237|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:13:43.9517|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:14:06.4852|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:14:06.5152|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:14:06.5661|DEBUG|Client.MainWindow|Received message: '260367781094200848564314327273547804479' from 'server' Message type: 'ParameterN'
+2015-12-01 20:14:06.5661|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-01 20:14:18.6074|DEBUG|Client.MainWindow|Received message: 'System.Byte[],User,EAAAAELsy8N02xzed4PdvQA4DOz/kZTEezXx6xL9L2uugu3l' from 'User' Message type: 'CryptoMessage'
+2015-12-01 20:25:02.5403|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:25:02.5744|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:25:02.6364|DEBUG|Client.MainWindow|Received message: '240322900567495976163183785847912801307' from 'server' Message type: 'ParameterN'
+2015-12-01 20:25:02.6504|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-01 20:25:09.6217|DEBUG|Client.MainWindow|Received message: ',User,EAAAAOgVhowLeT3N6Ci32MQGM0rnJZzS8UugP/LeV5TxscLb' from 'User' Message type: 'CryptoMessage'
+2015-12-01 20:27:09.2011|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:27:09.2371|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:27:09.3170|DEBUG|Client.MainWindow|Received message: '246875875538575171132937061438433376399' from 'server' Message type: 'ParameterN'
+2015-12-01 20:27:09.3170|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-01 20:27:21.9899|DEBUG|Client.MainWindow|Received message: ',User,EAAAADQZ8z4raCVGAJzo+zpqrXIBs2Bn8oHLaId8UsuQHuQP' from 'User' Message type: 'CryptoMessage'
+2015-12-01 20:34:11.9210|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:34:11.9681|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:34:12.0451|DEBUG|Client.MainWindow|Received message: '197129443788920391382805504107198689871' from 'server' Message type: 'ParameterN'
+2015-12-01 20:34:12.0671|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-01 20:34:18.2678|DEBUG|Client.MainWindow|Received message: ',User,EAAAAAR/i8qI6HF5/MH/VjMW4Jnsvr33OaAI3buyBmaGwhqR' from 'User' Message type: 'CryptoMessage'
+2015-12-01 20:34:35.7273|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:34:35.7593|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:34:35.7844|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-12-01 20:34:35.8254|DEBUG|Client.MainWindow|Received message: '197129443788920391382805504107198689871' from 'server' Message type: 'ParameterN'
+2015-12-01 20:34:35.8264|DEBUG|Client.MainWindow|Received message: '197129443788920391382805504107198689871' from 'server' Message type: 'ParameterN'
+2015-12-01 20:34:35.8364|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-01 20:34:35.8504|DEBUG|Client.MainWindow|Received message: '3' from 'server' Message type: 'ParameterE'
+2015-12-01 20:34:48.5824|DEBUG|Client.MainWindow|Received message: ',User,EAAAAAB5GVDutWKISxfQNGqUoGHDqFnvUTiPIvzyxv8LXxlA' from 'User2' Message type: 'CryptoMessage'
+2015-12-01 20:34:48.5834|DEBUG|Client.MainWindow|Received message: ',User,EAAAAAB5GVDutWKISxfQNGqUoGHDqFnvUTiPIvzyxv8LXxlA' from 'User2' Message type: 'CryptoMessage'
+2015-12-01 20:35:50.6006|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:35:50.6346|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:35:50.7168|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:35:50.7468|DEBUG|Client.MainWindow|Received message: '187651480671623897056535723845942509871' from 'server' Message type: 'ParameterN'
+2015-12-01 20:36:13.7031|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:36:13.7381|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:36:13.8412|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:36:13.8622|DEBUG|Client.MainWindow|Received message: '216093616060067762423110053176366209883' from 'server' Message type: 'ParameterN'
+2015-12-01 20:36:36.3548|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:36:36.3938|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:36:36.4940|DEBUG|Client.MainWindow|Received message: '211518786982313199357800651982932464909' from 'server' Message type: 'ParameterN'
+2015-12-01 20:36:36.5081|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-01 20:36:45.9146|DEBUG|Client.MainWindow|Received message: ',User,EAAAACNrJaHuVdM0fWd+TOhLiUEkVXwrIl+ILjBXrCnvTv1A' from 'User' Message type: 'CryptoMessage'
+2015-12-01 20:41:55.8587|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:41:55.8968|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:41:55.9848|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:41:55.9969|DEBUG|Client.MainWindow|Received message: '217841706832943093987884510397560028633' from 'server' Message type: 'ParameterN'
+2015-12-01 20:42:39.0910|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:42:39.1231|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:42:39.1811|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:42:39.1921|DEBUG|Client.MainWindow|Received message: '334591388234952534223042008594908478319' from 'server' Message type: 'ParameterN'
+2015-12-01 20:43:40.1517|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:43:40.1847|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:43:54.2161|DEBUG|Client.MainWindow|Received message: '238848353834362301644475426063181720437' from 'server' Message type: 'ParameterN'
+2015-12-01 20:44:35.2117|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:44:35.2438|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:44:35.3134|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:44:38.2852|DEBUG|Client.MainWindow|Received message: '214583097758853365937461674992193406299' from 'server' Message type: 'ParameterN'
+2015-12-01 20:45:23.7913|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:45:23.8283|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:45:23.9009|DEBUG|Client.MainWindow|Received message: '198047269580693114539794197563784943223' from 'server' Message type: 'ParameterN'
+2015-12-01 20:45:23.9214|DEBUG|Client.MainWindow|Received message: '5' from 'server' Message type: 'ParameterE'
+2015-12-01 20:45:32.5853|DEBUG|Client.MainWindow|Received message: ',User,EAAAANBWzSHU2TffmlpyySIHF2HkrKAXEorEVmxXOL8JuBsf' from 'User' Message type: 'CryptoMessage'
+2015-12-01 20:46:56.6121|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:46:56.6451|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:46:56.7252|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:47:04.7935|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:47:04.8275|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:47:48.8176|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:47:48.8466|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:47:48.9270|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-12-01 20:47:48.9455|DEBUG|Client.MainWindow|Received message: '237068616009290710203121837268043521767' from 'server' Message type: 'ParameterN'
+2015-12-01 20:53:48.5012|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-12-01 20:53:48.5342|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-12-01 20:53:48.6128|DEBUG|Client.MainWindow|Received message: '182054529610671741986766693631892272289' from 'server' Message type: 'ParameterN'

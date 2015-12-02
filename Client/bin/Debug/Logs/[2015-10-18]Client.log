@@ -1,0 +1,11 @@
+2015-10-18 22:40:49.2916|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-18 22:40:49.3236|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-18 22:40:53.2220|DEBUG|Client.MainWindow|Received message: 'cxc'
+2015-10-18 22:40:55.2875|DEBUG|Client.MainWindow|Received message: 'cxc'
+2015-10-18 22:41:00.5141|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-18 22:41:00.5537|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-18 22:41:03.9157|DEBUG|Client.MainWindow|Received message: 'zxc'
+2015-10-18 22:41:03.9197|DEBUG|Client.MainWindow|Received message: 'zxc'
+2015-10-18 22:41:06.2690|DEBUG|Client.MainWindow|Received message: 'xc'
+2015-10-18 22:41:06.2710|DEBUG|Client.MainWindow|Received message: 'xc'
+2015-10-18 22:41:45.4415|DEBUG|Client.MainWindow|Received message: 'xc'

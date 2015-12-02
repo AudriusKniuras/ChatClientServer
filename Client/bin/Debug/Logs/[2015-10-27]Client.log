@@ -1,0 +1,230 @@
+2015-10-27 13:01:45.2493|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:01:45.3028|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:01:45.3868|DEBUG|Client.MainWindow|Received message: 's>>> User ?'
+2015-10-27 13:02:05.1231|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:02:05.1561|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:02:05.2118|DEBUG|Client.MainWindow|Received message: 'd?>>> User ?'
+2015-10-27 13:02:05.2193|DEBUG|Client.MainWindow|Received message: 'd?>>> User ?'
+2015-10-27 13:02:11.6370|DEBUG|Client.MainWindow|Received message: ''
+2015-10-27 13:02:11.6370|DEBUG|Client.MainWindow|Received message: ''
+2015-10-27 13:02:12.7269|DEBUG|Client.MainWindow|Received message: ''
+2015-10-27 13:02:12.7269|DEBUG|Client.MainWindow|Received message: ''
+2015-10-27 13:02:12.8962|DEBUG|Client.MainWindow|Received message: ''
+2015-10-27 13:02:12.8962|DEBUG|Client.MainWindow|Received message: ''
+2015-10-27 13:05:28.2703|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:05:28.3083|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:05:28.3803|DEBUG|Client.MainWindow|Received message: 's>>> User ?'
+2015-10-27 13:05:34.3148|DEBUG|Client.MainWindow|Received message: ''
+2015-10-27 13:05:50.5869|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:05:50.6139|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:05:50.6329|DEBUG|Client.MainWindow|Received message: '????????????'
+2015-10-27 13:05:50.6379|DEBUG|Client.MainWindow|Received message: '????????????'
+2015-10-27 13:06:04.4690|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:06:04.5020|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:06:04.5190|DEBUG|Client.MainWindow|Received message: '????????????'
+2015-10-27 13:06:04.5230|DEBUG|Client.MainWindow|Received message: '????????????'
+2015-10-27 13:06:04.5200|DEBUG|Client.MainWindow|Received message: '????????????'
+2015-10-27 13:06:14.0302|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:06:14.0542|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:06:14.0692|DEBUG|Client.MainWindow|Received message: 'e>>> User ?'
+2015-10-27 13:06:14.0702|DEBUG|Client.MainWindow|Received message: 'e>>> User ?'
+2015-10-27 13:06:14.0752|DEBUG|Client.MainWindow|Received message: 'e>>> User ?'
+2015-10-27 13:06:14.0692|DEBUG|Client.MainWindow|Received message: 'e>>> User ?'
+2015-10-27 13:11:58.1781|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:11:58.2091|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:12:55.4034|DEBUG|Client.MainWindow|Received message: 's>>> User ?'
+2015-10-27 13:13:37.1739|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:13:37.2039|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:19:20.8212|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:19:20.8502|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:20:04.0825|DEBUG|Client.MainWindow|Received message: 's>>> User ?'
+2015-10-27 13:27:55.7898|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:27:55.8168|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:27:55.8819|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 13:31:28.4635|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:31:28.4905|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:31:28.5655|DEBUG|Client.MainWindow|Received message: '???????????'
+2015-10-27 13:33:50.4899|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:33:50.5239|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:38:19.0931|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 13:43:55.9310|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:43:55.9590|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:43:56.0090|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 13:47:24.3327|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:47:24.3552|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:47:24.4557|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 13:50:53.0533|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:50:53.0853|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:51:18.6749|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 13:54:02.2877|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:54:02.3197|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:54:10.4555|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 13:54:14.6021|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:54:14.6291|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:54:14.6501|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 13:54:14.6511|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 13:55:52.7584|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:55:52.7974|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:55:52.8504|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 13:57:07.0804|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 13:57:07.1054|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 13:57:07.1514|DEBUG|Client.MainWindow|Received message: 'r>>> User User connecte'
+2015-10-27 15:14:04.6002|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:14:04.6340|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:14:04.7585|DEBUG|Client.MainWindow|Received message: '>>> User User connected'
+2015-10-27 15:17:51.3636|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:17:51.3946|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:17:51.4546|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:21:25.7892|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:21:25.8232|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:21:31.5835|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:29:54.0790|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:29:54.1160|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:33:22.8387|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:33:22.8709|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:33:22.9429|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:35:42.1608|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:35:42.2098|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:35:42.3038|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:39:53.6796|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:39:53.7536|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:39:53.8116|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:39:57.4566|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:40:03.0691|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:40:04.0214|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:40:04.1902|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:41:40.9490|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:41:41.0029|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:41:41.0570|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:41:46.1283|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:41:46.1593|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:41:46.1793|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:41:46.1813|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:41:46.1973|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:41:51.4148|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:41:51.4178|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:41:55.9329|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:41:55.9329|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:42:08.3009|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:42:08.3009|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:42:10.4172|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:42:10.4177|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:42:11.1212|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:42:11.1212|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:42:12.7301|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:42:12.7301|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:42:12.9255|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:42:12.9255|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:42:29.7271|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:42:29.7271|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:42:42.8948|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:42:42.8948|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:42:49.7695|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:42:49.7695|DEBUG|Client.MainWindow|Received message: '>>> User2 connected'
+2015-10-27 15:46:16.4751|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:46:16.5111|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:46:16.5971|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:46:19.7531|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:51:59.6279|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:51:59.6664|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:51:59.7169|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:52:03.1005|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:52:12.6260|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:52:12.7794|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:52:23.5250|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 15:52:23.5520|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 15:52:23.5810|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:52:23.5840|DEBUG|Client.MainWindow|Received message: '>>> fsdf connected'
+2015-10-27 15:52:25.8079|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:52:25.8079|DEBUG|Client.MainWindow|Received message: '>>> fsdf connected'
+2015-10-27 15:52:25.9733|DEBUG|Client.MainWindow|Received message: '>>> fsdf connected'
+2015-10-27 15:52:25.9733|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:52:26.1330|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:52:26.1330|DEBUG|Client.MainWindow|Received message: '>>> fsdf connected'
+2015-10-27 15:52:26.2679|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 15:52:26.2679|DEBUG|Client.MainWindow|Received message: '>>> fsdf connected'
+2015-10-27 17:25:43.5774|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 17:25:43.6294|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 17:25:43.7515|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:25:47.9782|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:25:48.1638|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:25:59.4913|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 17:25:59.5453|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 17:25:59.5863|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:25:59.5933|DEBUG|Client.MainWindow|Received message: '>>> asdsa connected'
+2015-10-27 17:25:59.6125|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:26:04.1160|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:26:04.1180|DEBUG|Client.MainWindow|Received message: '>>> asdsa connected'
+2015-10-27 17:26:04.3268|DEBUG|Client.MainWindow|Received message: '>>> asdsa connected'
+2015-10-27 17:26:04.3268|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:26:04.5210|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:26:04.5220|DEBUG|Client.MainWindow|Received message: '>>> asdsa connected'
+2015-10-27 17:26:08.1293|DEBUG|Client.MainWindow|Received message: '>>> asdsa connected'
+2015-10-27 17:26:08.1293|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:26:08.2574|DEBUG|Client.MainWindow|Received message: '>>> asdsa connected'
+2015-10-27 17:26:08.2564|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:28:37.7122|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 17:28:37.7122|DEBUG|Client.MainWindow|Received message: '>>> asdsa connected'
+2015-10-27 18:30:10.2243|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 18:30:10.2643|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 18:30:10.4003|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 18:30:12.1919|DEBUG|Client.MainWindow|Received message: 'hj'
+2015-10-27 18:30:16.1582|DEBUG|Client.MainWindow|Received message: 'dsfdsf'
+2015-10-27 18:30:29.9917|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 18:30:30.0217|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 18:30:30.0507|DEBUG|Client.MainWindow|Received message: '>>> Userdas connected'
+2015-10-27 18:30:30.0567|DEBUG|Client.MainWindow|Received message: '>>> Userdas connected'
+2015-10-27 18:30:31.7134|DEBUG|Client.MainWindow|Received message: 'sadsad'
+2015-10-27 18:30:31.7134|DEBUG|Client.MainWindow|Received message: 'sadsad'
+2015-10-27 18:30:36.7522|DEBUG|Client.MainWindow|Received message: 'sadsadasd'
+2015-10-27 18:30:36.7522|DEBUG|Client.MainWindow|Received message: 'sadsadasd'
+2015-10-27 18:30:44.5404|DEBUG|Client.MainWindow|Received message: 'dsfdsfdas'
+2015-10-27 18:30:44.5404|DEBUG|Client.MainWindow|Received message: 'dsfdsfdas'
+2015-10-27 18:30:45.9879|DEBUG|Client.MainWindow|Received message: 'sadsadasdsad'
+2015-10-27 18:30:45.9879|DEBUG|Client.MainWindow|Received message: 'sadsadasdsad'
+2015-10-27 18:30:46.9182|DEBUG|Client.MainWindow|Received message: 'sadsadasdsad'
+2015-10-27 18:30:46.9192|DEBUG|Client.MainWindow|Received message: 'sadsadasdsad'
+2015-10-27 18:30:47.1004|DEBUG|Client.MainWindow|Received message: 'sadsadasdsad'
+2015-10-27 18:30:47.1004|DEBUG|Client.MainWindow|Received message: 'sadsadasdsad'
+2015-10-27 20:58:59.7805|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 20:58:59.8245|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 20:58:59.9020|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 20:59:02.8857|DEBUG|Client.MainWindow|Received message: 'hello'
+2015-10-27 20:59:12.3523|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 20:59:12.4033|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 20:59:12.4293|DEBUG|Client.MainWindow|Received message: '>>> Fragas connected'
+2015-10-27 20:59:12.4343|DEBUG|Client.MainWindow|Received message: '>>> Fragas connected'
+2015-10-27 20:59:15.5197|DEBUG|Client.MainWindow|Received message: 'hello'
+2015-10-27 20:59:15.5207|DEBUG|Client.MainWindow|Received message: 'hello'
+2015-10-27 21:04:53.0880|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 21:04:53.1220|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 21:04:53.1980|DEBUG|Client.MainWindow|Received message: '>>> User connected'
+2015-10-27 21:05:00.1026|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-27 21:05:42.6994|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 21:05:42.7324|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 21:05:42.8689|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User'Message type: 'Null'
+2015-10-27 21:05:49.0566|DEBUG|Client.MainWindow|Received message: 'Hello' from 'User'Message type: 'Null'
+2015-10-27 21:06:01.3661|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 21:06:01.4151|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 21:06:01.4481|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User'Message type: 'Null'
+2015-10-27 21:06:01.4561|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User'Message type: 'Null'
+2015-10-27 21:06:08.1741|DEBUG|Client.MainWindow|Received message: 'Hello' from 'User'Message type: 'Null'
+2015-10-27 21:06:08.1751|DEBUG|Client.MainWindow|Received message: 'Hello' from 'User'Message type: 'Null'
+2015-10-27 21:09:06.0424|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 21:09:06.0739|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 21:09:06.1849|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User'Message type: 'Null'
+2015-10-27 21:09:10.4073|DEBUG|Client.MainWindow|Received message: 'hi' from 'User'Message type: 'Null'
+2015-10-27 21:12:29.8937|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 21:12:29.9357|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 21:12:30.0517|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User'Message type: 'Connect'
+2015-10-27 21:13:45.7397|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 21:13:45.7787|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 21:13:45.8587|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User'Message type: 'Connect'
+2015-10-27 21:32:51.6662|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 21:32:51.7012|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 21:32:51.8167|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User'Message type: 'Connect'
+2015-10-27 21:33:16.6847|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 21:33:16.7147|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 21:33:57.8977|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-27 21:33:57.9307|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-27 21:33:57.9917|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User'Message type: 'Connect'

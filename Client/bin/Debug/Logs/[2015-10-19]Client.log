@@ -1,0 +1,40 @@
+2015-10-19 18:16:07.4307|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-19 18:16:07.4637|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-19 18:16:14.4467|DEBUG|Client.MainWindow|Received message: 'i'
+2015-10-19 18:16:16.4533|DEBUG|Client.MainWindow|Received message: 'ii'
+2015-10-19 18:16:17.2446|DEBUG|Client.MainWindow|Received message: 'ii'
+2015-10-19 18:16:17.3780|DEBUG|Client.MainWindow|Received message: 'ii'
+2015-10-19 18:16:22.2644|DEBUG|Client.MainWindow|Received message: 'hi'
+2015-10-19 18:16:31.3399|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-19 18:16:31.3659|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-19 18:16:35.1351|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:35.1371|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:37.4979|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:37.4974|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:37.6970|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:37.6970|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:38.0283|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:38.0283|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:39.1277|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:39.1277|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:39.5734|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 18:16:39.5734|DEBUG|Client.MainWindow|Received message: 'j'
+2015-10-19 20:28:43.7324|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-19 20:28:43.7699|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-19 21:52:30.3319|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-19 21:52:30.3559|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-19 21:52:40.5855|DEBUG|Client.MainWindow|Received message: '15'
+2015-10-19 21:52:40.7756|DEBUG|Client.MainWindow|Received message: '15'
+2015-10-19 21:52:41.0965|DEBUG|Client.MainWindow|Received message: '15'
+2015-10-19 21:52:41.2673|DEBUG|Client.MainWindow|Received message: '15'
+2015-10-19 22:26:51.3731|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-19 22:26:51.4627|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-19 22:27:03.4263|DEBUG|Client.MainWindow|Received message: 'vcx'
+2015-10-19 22:27:35.4973|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-19 22:27:35.5283|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-19 22:28:09.9278|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-19 22:28:09.9972|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-19 22:28:16.0988|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-19 22:28:16.1728|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-19 22:28:19.3850|DEBUG|Client.MainWindow|Received message: 'xc'
+2015-10-19 22:28:19.3850|DEBUG|Client.MainWindow|Received message: 'xc'

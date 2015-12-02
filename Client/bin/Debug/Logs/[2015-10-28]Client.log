@@ -1,0 +1,11 @@
+2015-10-28 12:08:47.8288|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-28 12:08:47.8858|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-28 12:08:47.9678|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-10-28 12:08:52.1412|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-10-28 12:49:12.9291|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-10-28 12:49:12.9571|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-10-28 12:49:12.9971|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-10-28 12:49:16.6347|DEBUG|Client.MainWindow|Received message: '21' from 'User' Message type: 'Null'
+2015-10-28 12:49:20.8760|DEBUG|Client.MainWindow|Received message: '21' from 'User' Message type: 'Null'
+2015-10-28 12:49:21.4881|DEBUG|Client.MainWindow|Received message: '21' from 'User' Message type: 'Null'
+2015-10-28 12:49:21.6691|DEBUG|Client.MainWindow|Received message: '21' from 'User' Message type: 'Null'

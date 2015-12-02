@@ -1,0 +1,380 @@
+2015-11-27 16:20:12.2707|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:20:12.3684|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:20:17.6028|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:20:17.6374|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:20:24.2153|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:24.2153|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.2510|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.2540|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.3571|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.3571|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.5573|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.5573|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.6784|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.6784|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.8679|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.8679|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.9778|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:30.9778|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.1780|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.1780|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.2992|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.2992|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.5110|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.5110|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.6187|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.6187|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.8600|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.8600|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.9590|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:31.9590|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.1898|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.1898|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.2999|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.2999|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.5194|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.5194|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.6405|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.6405|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.8611|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.8611|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.9802|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:32.9802|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:33.1908|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:33.1908|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:33.4206|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:20:33.4206|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:28:17.9034|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:28:17.9325|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:28:38.2987|FATAL|Client.MainWindow|System.ArithmeticException: Multiplication overflow.
+   at BigInteger.op_Multiply(BigInteger bi1, BigInteger bi2) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\BigInteger.cs:line 751
+   at Encryption.EncryptionRSA.coprimeAndInverse(BigInteger fi, Random rand) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\EncryptionRSA.cs:line 98
+   at Encryption.EncryptionRSA.GenerateKeys() in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\EncryptionRSA.cs:line 40
+   at Encryption.EncryptionRSA..ctor() in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\EncryptionRSA.cs:line 20
+   at Client.ConnectionConnector..ctor(EndPoint endPoint, String username) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Client\ConnectionConnector.cs:line 25
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Client\MainWindow.xaml.cs:line 36
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2015-11-27 16:28:58.8972|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:28:58.9362|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:29:15.1579|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:29:15.3439|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:29:15.5638|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:29:16.1938|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:41:26.3608|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:41:26.3898|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:42:25.6067|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:42:25.6337|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:42:32.6773|FATAL|Client.MainWindow|System.ArithmeticException: Multiplication overflow.
+   at BigInteger.op_Multiply(BigInteger bi1, BigInteger bi2) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\BigInteger.cs:line 716
+   at Encryption.EncryptionRSA.coprimeAndInverse(BigInteger fi, Random rand) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\EncryptionRSA.cs:line 98
+   at Encryption.EncryptionRSA.GenerateKeys() in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\EncryptionRSA.cs:line 40
+   at Encryption.EncryptionRSA..ctor() in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\EncryptionRSA.cs:line 20
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Client\MainWindow.xaml.cs:line 43
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2015-11-27 16:42:58.4556|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:42:58.4851|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:46:16.9605|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:46:16.9925|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:46:23.5499|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:46:24.0369|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:46:24.1477|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:46:24.3677|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:46:24.7076|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 16:46:33.8537|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:46:33.8767|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:46:33.9047|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:46:43.9567|FATAL|Client.MainWindow|System.ArithmeticException: Multiplication overflow.
+   at BigInteger.op_Multiply(BigInteger bi1, BigInteger bi2) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\BigInteger.cs:line 716
+   at Encryption.EncryptionRSA.coprimeAndInverse(BigInteger fi, Random rand) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\EncryptionRSA.cs:line 98
+   at Encryption.EncryptionRSA.GenerateKeys() in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\EncryptionRSA.cs:line 40
+   at Encryption.EncryptionRSA..ctor() in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Encryption\EncryptionRSA.cs:line 20
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Client\MainWindow.xaml.cs:line 43
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2015-11-27 16:46:59.3323|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:46:59.3593|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:46:59.3803|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:47:30.4803|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:47:30.5074|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:47:30.5364|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:47:30.5374|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:47:38.4035|DEBUG|Client.MainWindow|Received message: 'h' from 'User' Message type: 'Null'
+2015-11-27 16:47:38.4055|DEBUG|Client.MainWindow|Received message: 'h' from 'User' Message type: 'Null'
+2015-11-27 16:47:38.4045|DEBUG|Client.MainWindow|Received message: 'h' from 'User' Message type: 'Null'
+2015-11-27 16:47:53.7543|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:47:53.7793|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:47:53.7923|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:47:53.7923|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:47:53.7923|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:51:07.1373|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:51:07.1623|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:51:12.6992|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:51:12.7327|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:51:12.7457|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:51:16.2824|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:51:16.3105|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:51:16.3205|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:51:16.3265|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:53:04.3303|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:53:04.3633|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:53:10.6653|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:53:10.6923|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:53:17.7702|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:53:17.8092|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:53:31.8505|FATAL|Client.MainWindow|System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Client.ConnectionConnector.Send(Byte[] buffer) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Client\ConnectionConnector.cs:line 65
+   at Client.MainWindow.Window_Loaded(Object sender, RoutedEventArgs e) in C:\Users\Audrius\Documents\Visual Studio 2015\Projects\ChatClientServer\Client\MainWindow.xaml.cs:line 51
+   at System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   at System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   at System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   at System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   at System.Windows.BroadcastEventHelper.BroadcastEvent(DependencyObject root, RoutedEvent routedEvent)
+   at System.Windows.BroadcastEventHelper.BroadcastLoadedEvent(Object root)
+   at MS.Internal.LoadedOrUnloadedOperation.DoWork()
+   at System.Windows.Media.MediaContext.FireLoadedPendingCallbacks()
+   at System.Windows.Media.MediaContext.FireInvokeOnRenderCallbacks()
+   at System.Windows.Media.MediaContext.RenderMessageHandlerCore(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.RenderMessageHandler(Object resizedCompositionTarget)
+   at System.Windows.Media.MediaContext.Resize(ICompositionTarget resizedCompositionTarget)
+   at System.Windows.Interop.HwndTarget.OnResize()
+   at System.Windows.Interop.HwndTarget.HandleMessage(WindowMessage msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Interop.HwndSource.HwndTargetFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+2015-11-27 16:53:38.6492|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:53:38.6763|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:58:45.3670|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:58:45.3950|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:58:45.4956|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:58:53.1084|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:58:53.1484|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:58:53.1674|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:58:53.2328|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:58:53.2793|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:58:57.7172|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:58:57.7522|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:58:57.7722|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:58:57.7752|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:59:00.9361|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 16:59:00.9751|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 16:59:00.9831|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:59:00.9932|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:59:00.9836|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:59:01.0957|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:59:01.0972|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 16:59:01.0957|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 19:20:47.8124|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 19:20:47.8364|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 19:20:51.1875|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 19:20:51.2115|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 19:20:51.2426|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 19:20:57.3443|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 19:20:57.3443|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 19:21:22.9736|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 19:21:22.9736|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 19:21:23.2834|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 19:21:23.2834|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 19:21:27.3712|DEBUG|Client.MainWindow|Received message: 'hi' from 'User2' Message type: 'Null'
+2015-11-27 19:21:27.3722|DEBUG|Client.MainWindow|Received message: 'hi' from 'User2' Message type: 'Null'
+2015-11-27 19:25:09.7161|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 19:25:09.7422|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 19:25:12.0805|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 19:25:12.1045|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 19:25:12.1195|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 19:25:20.0714|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 19:25:20.0755|DEBUG|Client.MainWindow|Received message: 'hi' from 'User' Message type: 'Null'
+2015-11-27 19:37:57.0889|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 19:37:57.1119|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 19:38:58.2488|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 19:38:58.2739|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 19:41:08.4163|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 19:41:08.4443|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 19:43:08.7892|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 19:43:08.8152|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 19:43:44.5953|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 19:43:44.6224|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:06:11.9267|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:06:11.9517|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:07:08.6079|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:07:08.6339|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:08:54.6288|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:08:54.6568|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:09:08.9139|DEBUG|Client.MainWindow|Received message: ';??N?G?p ????&?' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:09:08.9139|DEBUG|Client.MainWindow|Received message: 'User,EAAAAAdj9626BTwdEbUAYPKQpBGcn3UtIgpwJpwYHwIeFoTT' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:09:36.5016|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:09:36.5346|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:09:36.5677|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:10:20.4368|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:10:20.4648|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:10:22.4772|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:10:22.5042|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:10:22.5187|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 20:10:28.2289|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-27 20:10:28.2309|DEBUG|Client.MainWindow|Received message: 's' from 'User' Message type: 'Null'
+2015-11-27 20:10:32.3541|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-27 20:10:32.3541|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-27 20:10:42.2084|DEBUG|Client.MainWindow|Received message: 'F???5??????Ia?' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:10:42.2084|DEBUG|Client.MainWindow|Received message: 'F???5??????Ia?' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:10:42.2084|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPORwH8jTSvVTbtRbb0opgdVckGaGDl1vWXy8GJ+XQSw' from 'User2' Message type: 'SymmetricKey'
+2015-11-27 20:10:42.2084|DEBUG|Client.MainWindow|Received message: 'User,EAAAAPORwH8jTSvVTbtRbb0opgdVckGaGDl1vWXy8GJ+XQSw' from 'User2' Message type: 'SymmetricKey'
+2015-11-27 20:12:30.0761|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:12:30.1021|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:13:31.4671|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:13:31.4931|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:13:39.8617|DEBUG|Client.MainWindow|Received message: '3l?????je??z??' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:13:39.8687|DEBUG|Client.MainWindow|Received message: 'User,EAAAAIbmquOb3St9wq2UloMaR8i1sUqO2aZuH3uV3HXK0gTX' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:17:23.3788|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:17:23.4118|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:17:23.4698|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:17:27.7675|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:17:27.7905|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:17:27.8045|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 20:17:39.6659|DEBUG|Client.MainWindow|Received message: 'o[k????0&SW-B?' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:17:39.6679|DEBUG|Client.MainWindow|Received message: 'o[k????0&SW-B?' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:17:39.6659|DEBUG|Client.MainWindow|Received message: 'User,EAAAAFV7N4v0tUrbusP40a2b7HGmzq2gM6FUte9isR2td+Jw' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:17:39.6779|DEBUG|Client.MainWindow|Received message: 'User,EAAAAFV7N4v0tUrbusP40a2b7HGmzq2gM6FUte9isR2td+Jw' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:20:42.6220|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:20:42.6470|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:20:42.7390|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 20:20:47.5616|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:20:47.5856|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:20:47.6016|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:21:12.7291|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:21:38.1916|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:21:38.2372|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:21:44.0494|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:21:44.0834|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:21:44.1004|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:21:54.5801|DEBUG|Client.MainWindow|Received message: '?	?????k&j?0???' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:21:54.5831|DEBUG|Client.MainWindow|Received message: '?	?????k&j?0???' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:21:54.5871|DEBUG|Client.MainWindow|Received message: 'User2,EAAAACmEC22OPbn7b1Cbsij2AfVNbHJHEG41zXCjsi2j+CW3' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:21:54.5831|DEBUG|Client.MainWindow|Received message: 'User2,EAAAACmEC22OPbn7b1Cbsij2AfVNbHJHEG41zXCjsi2j+CW3' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:22:41.3651|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:22:41.3911|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:22:45.3222|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:22:45.3482|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:22:45.3652|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:22:56.3972|DEBUG|Client.MainWindow|Received message: '4?i?BsH?????0?p' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:22:56.3972|DEBUG|Client.MainWindow|Received message: 'User2,EAAAADJLunPNBAcnOhj495+V8BdOFWuL4qbcuPrlsECnMKfJ' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:22:56.3992|DEBUG|Client.MainWindow|Received message: '4?i?BsH?????0?p' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:22:56.4152|DEBUG|Client.MainWindow|Received message: 'User2,EAAAADJLunPNBAcnOhj495+V8BdOFWuL4qbcuPrlsECnMKfJ' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:23:28.4955|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:23:28.5205|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:23:31.0398|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:23:31.0668|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:23:31.0838|DEBUG|Client.MainWindow|Received message: '>>> User connected' from 'User' Message type: 'Connect'
+2015-11-27 20:24:16.8895|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:24:16.9145|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:24:23.8844|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:24:23.9085|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:24:23.9235|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:24:28.9140|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:24:28.9550|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:24:28.9690|DEBUG|Client.MainWindow|Received message: '>>> User3 connected' from 'User3' Message type: 'Connect'
+2015-11-27 20:24:28.9730|DEBUG|Client.MainWindow|Received message: '>>> User3 connected' from 'User3' Message type: 'Connect'
+2015-11-27 20:24:38.5365|DEBUG|Client.MainWindow|Received message: 's' from 'User3' Message type: 'Null'
+2015-11-27 20:24:38.5365|DEBUG|Client.MainWindow|Received message: 's' from 'User3' Message type: 'Null'
+2015-11-27 20:24:38.5395|DEBUG|Client.MainWindow|Received message: 's' from 'User3' Message type: 'Null'
+2015-11-27 20:24:46.5876|DEBUG|Client.MainWindow|Received message: '/]L??O50=Y?=??' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:24:46.5876|DEBUG|Client.MainWindow|Received message: 'User3,EAAAAMPes4XQe1LtiG1nC7Fs8erOGXXaE6RkhkpSKA77+H2x' from 'User3' Message type: 'CryptoMessage'
+2015-11-27 20:24:46.5876|DEBUG|Client.MainWindow|Received message: '/]L??O50=Y?=??' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:24:46.6065|DEBUG|Client.MainWindow|Received message: 'User3,EAAAAMPes4XQe1LtiG1nC7Fs8erOGXXaE6RkhkpSKA77+H2x' from 'User3' Message type: 'CryptoMessage'
+2015-11-27 20:24:46.5885|DEBUG|Client.MainWindow|Received message: '/]L??O50=Y?=??' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:24:46.6186|DEBUG|Client.MainWindow|Received message: 'User3,EAAAAMPes4XQe1LtiG1nC7Fs8erOGXXaE6RkhkpSKA77+H2x' from 'User3' Message type: 'CryptoMessage'
+2015-11-27 20:26:14.9615|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:26:14.9885|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:26:21.5446|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:26:21.5756|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:26:21.5996|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:26:59.9438|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:26:59.9728|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:27:07.0672|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:27:07.0953|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:27:07.1173|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:27:13.8045|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-27 20:27:13.8075|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-27 20:27:26.6676|DEBUG|Client.MainWindow|Received message: '%?E??b??\t?:2??' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:27:26.6746|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAK3FQIxLjE/rqpC0Mx3FC1MLcU6uJEd1rJwJD1US1HwM' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:27:26.6676|DEBUG|Client.MainWindow|Received message: '%?E??b??\t?:2??' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:27:26.6866|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAK3FQIxLjE/rqpC0Mx3FC1MLcU6uJEd1rJwJD1US1HwM' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:32:29.7121|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:32:29.7381|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:32:36.1983|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:32:36.2243|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:32:36.2384|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:32:42.9074|DEBUG|Client.MainWindow|Received message: '?<??wo>`,?|F?G?' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:32:42.9124|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAK3xnphtXgzPBfy2MzrXEuWLoPQChadWIkVrSAxvdVT4' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:32:42.9094|DEBUG|Client.MainWindow|Received message: '?<??wo>`,?|F?G?' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:32:42.9264|DEBUG|Client.MainWindow|Received message: 'User2,EAAAAK3xnphtXgzPBfy2MzrXEuWLoPQChadWIkVrSAxvdVT4' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:34:23.5594|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:34:23.5854|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:34:29.2087|INFO|Client.MainWindow|Client will try to connect to 127.0.0.1:32000
+2015-11-27 20:34:29.2378|DEBUG|Client.ConnectionConnector|Successfully connected to the server.
+2015-11-27 20:34:29.2588|DEBUG|Client.MainWindow|Received message: '>>> User2 connected' from 'User2' Message type: 'Connect'
+2015-11-27 20:34:35.4539|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-27 20:34:35.4569|DEBUG|Client.MainWindow|Received message: 's' from 'User2' Message type: 'Null'
+2015-11-27 20:34:42.6223|DEBUG|Client.MainWindow|Received message: 'HEr??????"??' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:34:42.6223|DEBUG|Client.MainWindow|Received message: 'User2,EAAAALGgMi3lM+7tyDBjIufq3PsjTxDdwxgX3Xsft78ccRCn' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:34:42.6223|DEBUG|Client.MainWindow|Received message: 'HEr??????"??' from 'User' Message type: 'SymmetricKey'
+2015-11-27 20:34:42.6403|DEBUG|Client.MainWindow|Received message: 'User2,EAAAALGgMi3lM+7tyDBjIufq3PsjTxDdwxgX3Xsft78ccRCn' from 'User2' Message type: 'CryptoMessage'
+2015-11-27 20:34:57.1753|DEBUG|Client.MainWindow|Received message: '?P?>)!?Sl?-?X' from 'User2' Message type: 'SymmetricKey'
+2015-11-27 20:34:57.1753|DEBUG|Client.MainWindow|Received message: 'User,EAAAAMd3FKipoVBj43wf3i/hO5mFx548B4Z/dPJZwd1PPcpw' from 'User' Message type: 'CryptoMessage'
+2015-11-27 20:34:57.1763|DEBUG|Client.MainWindow|Received message: '?P?>)!?Sl?-?X' from 'User2' Message type: 'SymmetricKey'
+2015-11-27 20:34:57.2113|DEBUG|Client.MainWindow|Received message: 'User,EAAAAMd3FKipoVBj43wf3i/hO5mFx548B4Z/dPJZwd1PPcpw' from 'User' Message type: 'CryptoMessage'
